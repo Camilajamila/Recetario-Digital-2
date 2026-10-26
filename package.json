@@ -1,0 +1,17 @@
+{
+  "name": "recetario-digital",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/web",
+    "apps/api"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n api,web -c yellow,cyan \"npm run dev --workspace @recetario/api\" \"npm run dev --workspace @recetario/web\"",
+    "build": "npm run build --workspace @recetario/web",
+    "start": "npm run start --workspace @recetario/api"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

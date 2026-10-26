@@ -1,0 +1,3749 @@
+[
+  {
+    "id": "receta-ensalada-quinoa",
+    "title": "Bowl de quinoa y aguacate",
+    "description": "Fresco, colorido y lleno de ingredientes que te hacen bien.",
+    "category": "Almuerzo",
+    "prepMinutes": 25,
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/quinoa-aguacate-receta-elle-gourmet-68f08f8f2ce51.jpg",
+    "ingredients": [
+      "1 taza de quinoa",
+      "1 aguacate maduro",
+      "1 taza de tomates cherry",
+      "2 tazas de espinaca fresca",
+      "1 limón, su jugo"
+    ],
+    "steps": [
+      "Enjuaga la quinoa y cocínala con dos tazas de agua durante 15 minutos.",
+      "Corta el aguacate en láminas y los tomates por la mitad.",
+      "Sirve la quinoa sobre la espinaca, agrega las verduras y termina con jugo de limón."
+    ],
+    "updatedAt": "2026-10-25T02:27:51.923Z"
+  },
+  {
+    "id": "receta-panqueques-avena",
+    "title": "Panqueques de avena",
+    "description": "Esponjosos, fáciles y perfectos para empezar el día.",
+    "category": "Desayuno",
+    "prepMinutes": 20,
+    "imageUrl": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=900&q=80",
+    "ingredients": [
+      "1 taza de avena",
+      "1 banana madura",
+      "1 huevo",
+      "1/2 taza de leche",
+      "1 cucharadita de canela"
+    ],
+    "steps": [
+      "Licúa la avena, la banana, el huevo, la leche y la canela hasta obtener una mezcla lisa.",
+      "Calienta una sartén antiadherente a fuego medio y vierte porciones pequeñas.",
+      "Cocina hasta que aparezcan burbujas, da vuelta y dora del otro lado."
+    ]
+  },
+  {
+    "id": "receta-pasta-tomate",
+    "title": "Pasta cremosa al tomate",
+    "description": "Una cena reconfortante con salsa casera y albahaca fresca.",
+    "category": "Cena",
+    "prepMinutes": 30,
+    "imageUrl": "https://i.blogs.es/5dafe5/pastaensalsacremosadetomate_1024_ma/840_560.jpg",
+    "ingredients": [
+      "250 g de pasta corta",
+      "2 tazas de tomates maduros",
+      "1 diente de ajo",
+      "1/3 taza de crema de leche",
+      "Hojas de albahaca fresca"
+    ],
+    "steps": [
+      "Hierve la pasta en agua con sal siguiendo el tiempo del paquete.",
+      "Saltea el ajo picado, añade los tomates y cocina hasta que se deshagan.",
+      "Incorpora la crema y la pasta escurrida. Mezcla y sirve con albahaca."
+    ],
+    "updatedAt": "2026-10-25T04:03:11.698Z"
+  },
+  {
+    "id": "receta-tarta-manzana",
+    "title": "Tarta tibia de manzana",
+    "description": "Manzana, canela y una masa doradita para compartir.",
+    "category": "Postres",
+    "prepMinutes": 45,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY7IJ6CfPiu5bAbNw295fMuQ4fZ5R2yG9gO1JCSz1jGoQ8UZg8M4il2sz_&s=10",
+    "ingredients": [
+      "2 manzanas rojas",
+      "1 lámina de masa de hojaldre",
+      "2 cucharadas de azúcar",
+      "1 cucharadita de canela",
+      "1 cucharada de mantequilla"
+    ],
+    "steps": [
+      "Precalienta el horno a 190 °C y coloca el hojaldre en una bandeja.",
+      "Corta las manzanas en láminas finas y distribúyelas sobre la masa.",
+      "Espolvorea azúcar y canela, agrega pequeños trozos de mantequilla y hornea 25 minutos."
+    ],
+    "updatedAt": "2026-10-25T02:32:02.103Z"
+  },
+  {
+    "id": "receta-tostadas-ricotta",
+    "title": "Tostadas con ricotta y miel",
+    "description": "Un bocado dulce y cremoso listo en un abrir y cerrar de ojos.",
+    "category": "Snacks",
+    "prepMinutes": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=900&q=80",
+    "ingredients": [
+      "2 rebanadas de pan de campo",
+      "4 cucharadas de ricotta",
+      "1 cucharada de miel",
+      "Frutas frescas de estación"
+    ],
+    "steps": [
+      "Tuesta el pan hasta que quede dorado y crujiente.",
+      "Unta una capa generosa de ricotta sobre cada rebanada.",
+      "Agrega la miel y las frutas frescas. Sirve enseguida."
+    ]
+  },
+  {
+    "id": "receta-sopa-calabaza",
+    "title": "Sopa suave de calabaza",
+    "description": "Cremosa, aromática y la mejor compañía en un día fresco.",
+    "category": "Almuerzo",
+    "prepMinutes": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?auto=format&fit=crop&w=900&q=80",
+    "ingredients": [
+      "500 g de calabaza",
+      "1 cebolla pequeña",
+      "3 tazas de caldo de verduras",
+      "1/3 taza de leche",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Pela y corta la calabaza y la cebolla en trozos.",
+      "Cocina las verduras con el caldo a fuego medio durante 25 minutos.",
+      "Procesa hasta que quede suave, agrega la leche y condimenta antes de servir."
+    ]
+  },
+  {
+    "id": "receta-chipa-casera",
+    "title": "Chipa",
+    "description": "Panecitos de queso dorados, ideales para acompañar el mate o el café.",
+    "category": "Snacks",
+    "prepMinutes": 40,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqmr2Kob3DNop9JclSU0IziyTY5RZ87gpW9ckGqG1Zg2HJAzS1ztjpVk&s=10",
+    "imageSourceUrl": "https://www.magnific.com/es/fotos-vectores-gratis/chipa-paraguay",
+    "ingredients": [
+      "500 g de almidón de mandioca",
+      "250 g de queso Paraguay desmenuzado",
+      "2 huevos",
+      "100 g de manteca blanda",
+      "1/2 taza de leche",
+      "1 cucharadita de sal"
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C y prepara una bandeja.",
+      "Mezcla el almidón con la sal y desmenuza el queso en el centro.",
+      "Agrega la manteca y los huevos. Integra mientras incorporas la leche poco a poco, hasta lograr una masa suave.",
+      "Forma rosquitas pequeñas y hornéalas durante 15 a 20 minutos, hasta que estén ligeramente doradas."
+    ],
+    "updatedAt": "2026-10-25T21:07:14.039Z"
+  },
+  {
+    "id": "receta-sopa-paraguaya",
+    "title": "Sopa paraguaya",
+    "description": "Un clásico esponjoso de maíz y queso para compartir en familia.",
+    "category": "Almuerzo",
+    "prepMinutes": 55,
+    "imageUrl": "https://www.recetasnestle.com.py/sites/default/files/srh_recipes/08bde2fb8f6db6e4cb25680f41b87e60.jpg",
+    "imageSourceUrl": "https://www.magnific.com/es/fotos-vectores-gratis/cornbread",
+    "ingredients": [
+      "2 tazas de harina de maíz",
+      "2 cebollas grandes",
+      "300 g de queso Paraguay",
+      "3 huevos",
+      "2 tazas de leche",
+      "3 cucharadas de aceite",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y engrasa una fuente.",
+      "Corta las cebollas en tiras y cocínalas con el aceite hasta que estén transparentes.",
+      "Bate los huevos con la leche y mezcla con la harina de maíz, la cebolla y el queso desmenuzado.",
+      "Vierte la preparación en la fuente y hornea durante 35 a 40 minutos, hasta que esté firme y dorada."
+    ],
+    "updatedAt": "2026-10-25T02:28:43.549Z"
+  },
+  {
+    "id": "receta-vori-vori",
+    "title": "Vori vori de pollo",
+    "description": "Caldo casero con bolitas de maíz y queso, reconfortante y lleno de sabor.",
+    "category": "Almuerzo",
+    "prepMinutes": 60,
+    "imageUrl": "https://paraguayrecetas.com/wp-content/uploads/2021/02/vori.png.webp",
+    "imageSourceUrl": "https://www.magnific.com/es/fotos-vectores-gratis/sopa-de-pollo-con-bolas",
+    "ingredients": [
+      "500 g de pollo en presas",
+      "1 cebolla picada",
+      "1 zanahoria en cubos",
+      "1 taza de harina de maíz",
+      "150 g de queso Paraguay",
+      "1,5 litros de agua o caldo",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Dora el pollo en una olla y añade la cebolla y la zanahoria.",
+      "Agrega el agua o caldo, condimenta y cocina a fuego medio hasta que el pollo esté tierno.",
+      "Mezcla la harina de maíz con el queso desmenuzado y un poco de caldo hasta formar una masa.",
+      "Forma bolitas pequeñas, incorpóralas a la olla y cocina 10 minutos más, hasta que estén cocidas."
+    ],
+    "updatedAt": "2026-10-25T02:29:23.395Z"
+  },
+  {
+    "id": "receta-tortilla-patatas",
+    "title": "Tortilla de papas",
+    "description": "Papas tiernas y huevo en una tortilla dorada, perfecta a cualquier hora.",
+    "category": "Cena",
+    "prepMinutes": 40,
+    "imageUrl": "https://www.lanacion.com.ar/resizer/v2/tortilla-de-papas-con-EPMZH233TBBEBETIIAYLJQ57JU.jpg?auth=c7d754a1ca578aa0c4a1d4c9a53b7e8cd661bf9be7142e7d1bde46df2d8863df&width=1200&height=900&quality=70&smart=true",
+    "imageSourceUrl": "https://www.magnific.com/es/fotos-vectores-gratis/tortilla-de-patatas",
+    "ingredients": [
+      "4 papas medianas",
+      "1 cebolla",
+      "5 huevos",
+      "Aceite para cocinar",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Pela las papas y córtalas en rodajas finas. Corta la cebolla en tiras.",
+      "Cocina las papas y la cebolla en una sartén con aceite a fuego medio hasta que estén tiernas.",
+      "Bate los huevos, condimenta y mezcla con las papas escurridas.",
+      "Vierte la mezcla en una sartén caliente. Cocina hasta cuajar, da vuelta con ayuda de un plato y dora del otro lado."
+    ],
+    "updatedAt": "2026-10-25T02:30:05.599Z"
+  },
+  {
+    "id": "receta-pollo-limon",
+    "title": "Pollo al limón y hierbas",
+    "description": "Jugoso, aromático y acompañado de vegetales asados en una sola fuente.",
+    "category": "Cena",
+    "prepMinutes": 50,
+    "imageUrl": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=900&q=80",
+    "ingredients": [
+      "4 muslos de pollo",
+      "2 limones",
+      "3 dientes de ajo",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharadita de orégano",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C y coloca el pollo en una fuente.",
+      "Mezcla el jugo de un limón con el aceite, el ajo picado, el orégano, la sal y la pimienta.",
+      "Vierte el aderezo sobre el pollo y agrega el otro limón en rodajas.",
+      "Hornea durante 40 a 45 minutos, rociando el pollo con sus jugos a mitad de cocción."
+    ]
+  },
+  {
+    "id": "receta-brownies-chocolate",
+    "title": "Brownies de chocolate",
+    "description": "Intensos por dentro, con una costra delicada y listos para compartir.",
+    "category": "Postres",
+    "prepMinutes": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=900&q=80",
+    "ingredients": [
+      "150 g de chocolate semiamargo",
+      "100 g de manteca",
+      "2 huevos",
+      "3/4 taza de azúcar",
+      "1/2 taza de harina",
+      "1 cucharadita de esencia de vainilla"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y cubre un molde pequeño con papel para hornear.",
+      "Derrite el chocolate junto con la manteca y deja entibiar.",
+      "Bate los huevos con el azúcar y la vainilla. Incorpora el chocolate y luego la harina.",
+      "Vierte la mezcla en el molde y hornea de 20 a 25 minutos. Deja enfriar antes de cortar."
+    ]
+  },
+  {
+    "id": "receta-hummus-garbanzos",
+    "title": "Hummus de garbanzos",
+    "description": "Dip cremoso con limón y un toque de comino, fácil de preparar en casa.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtHAe7zgXsiu-oczg4RFfeCmgAJ1K8TePoUg8qry1E-A_J_SUoC2YSfjQ2&s=10",
+    "ingredients": [
+      "400 g de garbanzos cocidos",
+      "2 cucharadas de tahini",
+      "1 limón, su jugo",
+      "1 diente de ajo",
+      "2 cucharadas de aceite de oliva",
+      "1/2 cucharadita de comino",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Escurre los garbanzos y reserva un poco del líquido de cocción.",
+      "Procesa los garbanzos con el tahini, el jugo de limón, el ajo y el comino.",
+      "Agrega el aceite y procesa. Si hace falta, incorpora un poco del líquido reservado hasta lograr una textura cremosa.",
+      "Ajusta la sal y sirve con un chorrito de aceite de oliva."
+    ],
+    "updatedAt": "2026-10-25T04:01:59.159Z"
+  },
+  {
+    "id": "receta-yogur-frutas",
+    "title": "Yogur con granola y frutas",
+    "description": "Un desayuno fresco que combina fruta de estación, yogur y granola crujiente.",
+    "category": "Desayuno",
+    "prepMinutes": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=900&q=80",
+    "ingredients": [
+      "1 taza de yogur natural",
+      "1/2 taza de granola",
+      "1 banana",
+      "1/2 taza de frutillas",
+      "1 cucharadita de miel"
+    ],
+    "steps": [
+      "Lava las frutillas y córtalas en trozos. Corta la banana en rodajas.",
+      "Coloca el yogur en un cuenco y agrega la granola.",
+      "Distribuye las frutas por encima y termina con un hilo de miel."
+    ]
+  },
+  {
+    "id": "receta-mbeju",
+    "title": "Mbeju",
+    "description": "Disco dorado de almidón y queso, un clásico paraguayo para la merienda.",
+    "category": "Snacks",
+    "prepMinutes": 25,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyAk-W5LIEfNFj3mK3YxBhkaKjN4HBQEHF0Vstcucka69bCCdi_ydCRYw&s=10",
+    "ingredients": [
+      "2 tazas de almidón de mandioca",
+      "150 g de queso Paraguay desmenuzado",
+      "2 cucharadas de manteca",
+      "1/2 taza de leche",
+      "1 cucharadita de sal"
+    ],
+    "steps": [
+      "Mezcla el almidón con la sal y la manteca hasta formar una textura arenosa.",
+      "Agrega el queso y la leche de a poco, mezclando hasta obtener grumos húmedos.",
+      "Calienta una sartén a fuego bajo y distribuye una capa de la mezcla.",
+      "Presiona suavemente y cocina hasta que la base esté dorada; da vuelta con cuidado y cocina del otro lado."
+    ],
+    "updatedAt": "2026-10-26T10:25:03.601Z"
+  },
+  {
+    "id": "receta-empanadas-carne",
+    "title": "Empanadas de carne al horno",
+    "description": "Relleno jugoso de carne y cebolla dentro de una masa dorada.",
+    "category": "Almuerzo",
+    "prepMinutes": 50,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3JvSzt_8VfEJOrJ8grWPpPWxaGVUhxI7-pmNT0t1U38WuAdsIG_FZl0&s=10",
+    "ingredients": [
+      "12 discos de masa para empanadas",
+      "400 g de carne molida",
+      "1 cebolla picada",
+      "1/2 morrón picado",
+      "2 huevos duros",
+      "1 cucharadita de comino",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Cocina la cebolla y el morrón en una sartén hasta que estén tiernos.",
+      "Agrega la carne, el comino, la sal y la pimienta. Cocina y deja enfriar el relleno.",
+      "Incorpora los huevos duros picados y reparte el relleno en los discos.",
+      "Cierra las empanadas, colócalas en una bandeja y hornea a 200 °C durante 18 a 20 minutos."
+    ],
+    "updatedAt": "2026-10-25T02:35:37.057Z"
+  },
+  {
+    "id": "receta-arroz-con-leche",
+    "title": "Arroz con leche y canela",
+    "description": "Postre casero y cremoso con aroma a canela.",
+    "category": "Postres",
+    "prepMinutes": 45,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8orjQDpeZ7ae6SaAziyEkJ4KbTyooNQbgMTYep_4_hJKMnNrlvMEyyDw&s=10",
+    "ingredients": [
+      "1 taza de arroz",
+      "1 litro de leche",
+      "1/2 taza de azúcar",
+      "1 rama de canela",
+      "1 cucharadita de esencia de vainilla",
+      "Canela molida para servir"
+    ],
+    "steps": [
+      "Enjuaga el arroz y colócalo en una olla con la leche y la rama de canela.",
+      "Cocina a fuego bajo, revolviendo con frecuencia, hasta que el arroz esté tierno.",
+      "Agrega el azúcar y la vainilla. Cocina unos minutos más hasta que quede cremoso.",
+      "Retira la rama de canela y sirve tibio o frío con canela molida."
+    ],
+    "updatedAt": "2026-10-25T02:38:52.037Z"
+  },
+  {
+    "id": "receta-milanesa-pollo",
+    "title": "Milanesa de pollo",
+    "description": "Filetes tiernos con un rebozado crujiente, fáciles de acompañar.",
+    "category": "Cena",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuDLHt-BSMhCkvZHVRMwZOdnP3JbCkwVd2EwPSJ7qCKF5CrOlLMdpn3Y&s=10",
+    "ingredients": [
+      "2 pechugas de pollo fileteadas",
+      "2 huevos",
+      "1 taza de pan rallado",
+      "1/2 taza de harina",
+      "1 cucharadita de ajo en polvo",
+      "Sal y pimienta al gusto",
+      "Aceite para cocinar"
+    ],
+    "steps": [
+      "Condimenta los filetes de pollo con sal, pimienta y ajo en polvo.",
+      "Pasa cada filete primero por harina, luego por huevo batido y finalmente por pan rallado.",
+      "Cocina en una sartén con aceite a fuego medio hasta que estén dorados y bien cocidos por dentro.",
+      "Escurre sobre papel absorbente y sirve caliente."
+    ],
+    "updatedAt": "2026-10-25T02:39:51.596Z"
+  },
+  {
+    "id": "receta-locro-paraguayo",
+    "title": "Locro paraguayo",
+    "description": "Guiso tradicional de maíz y carne, sabroso y reconfortante.",
+    "category": "Almuerzo",
+    "prepMinutes": 100,
+    "imageUrl": "https://www.abc.com.py/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fabccolor%2FLYR3BD5NLJGH5AVJY3BXLGXVL4.JPG?auth=7d1d63bd1496c3b215219a16fb431c24ee92e0fdf6c8394faf8cc4d40b4cf4bc&width=770&smart=true",
+    "ingredients": [
+      "2 tazas de maíz blanco partido",
+      "400 g de carne vacuna en cubos",
+      "1 cebolla picada",
+      "1 zanahoria en cubos",
+      "1 zapallo pequeño en cubos",
+      "2 litros de agua o caldo",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Deja el maíz en remojo durante la noche y escúrrelo antes de cocinar.",
+      "Coloca el maíz y la carne en una olla con el agua o caldo. Cocina a fuego bajo hasta que empiecen a ablandarse.",
+      "Agrega la cebolla, la zanahoria y el zapallo. Cocina hasta que el maíz y la carne estén tiernos.",
+      "Condimenta y sirve caliente."
+    ],
+    "updatedAt": "2026-10-26T21:08:14.823Z"
+  },
+  {
+    "id": "receta-reviro",
+    "title": "Reviro paraguayo",
+    "description": "Preparación sencilla de harina y huevo, tradicional en el desayuno y la merienda.",
+    "category": "Desayuno",
+    "prepMinutes": 25,
+    "imageUrl": "https://www.196flavors.com/wp-content/uploads/2018/09/reviro-1-FP.jpg",
+    "ingredients": [
+      "2 tazas de harina",
+      "1 huevo",
+      "1/2 taza de agua",
+      "1 cucharadita de sal",
+      "3 cucharadas de aceite"
+    ],
+    "steps": [
+      "Mezcla la harina con la sal. Agrega el huevo y el agua poco a poco hasta formar una masa firme.",
+      "Calienta el aceite en una sartén amplia y añade la masa en trozos.",
+      "Cocina a fuego medio, rompiendo y revolviendo la masa con una cuchara hasta que queden migas doradas.",
+      "Sirve caliente, solo o acompañado de huevo."
+    ],
+    "updatedAt": "2026-10-25T02:41:21.572Z"
+  },
+  {
+    "id": "receta-ensalada-caprese",
+    "title": "Ensalada caprese",
+    "description": "Tomate, mozzarella y albahaca con un aderezo sencillo.",
+    "category": "Almuerzo",
+    "prepMinutes": 15,
+    "imageUrl": "https://cdn.blog.paulinacocina.net/wp-content/uploads/2024/07/ensalada-caprese-italiana-800x534.jpg",
+    "ingredients": [
+      "3 tomates maduros",
+      "200 g de mozzarella fresca",
+      "Hojas de albahaca fresca",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharadita de vinagre balsámico",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Corta los tomates y la mozzarella en rodajas.",
+      "Alterna las rodajas en un plato y distribuye las hojas de albahaca.",
+      "Aliña con aceite de oliva, vinagre balsámico, sal y pimienta.",
+      "Deja reposar unos minutos y sirve."
+    ],
+    "updatedAt": "2026-10-25T02:42:48.177Z"
+  },
+  {
+    "id": "receta-budin-banana",
+    "title": "Budín de banana",
+    "description": "Budín suave para aprovechar bananas maduras y compartir en la merienda.",
+    "category": "Postres",
+    "prepMinutes": 55,
+    "imageUrl": "https://cuk-it.com/wp-content/uploads/2025/10/budin-banana-integral-17-819x1024.webp",
+    "ingredients": [
+      "3 bananas maduras",
+      "2 tazas de harina",
+      "2 huevos",
+      "1/2 taza de azúcar",
+      "1/3 taza de aceite",
+      "1 cucharadita de polvo de hornear",
+      "1 cucharadita de esencia de vainilla"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y engrasa un molde para budín.",
+      "Pisa las bananas y mézclalas con los huevos, el azúcar, el aceite y la vainilla.",
+      "Incorpora la harina y el polvo de hornear hasta integrar.",
+      "Vierte la mezcla en el molde y hornea durante 40 a 45 minutos. Deja enfriar antes de desmoldar."
+    ],
+    "updatedAt": "2026-10-25T02:42:10.786Z"
+  },
+  {
+    "id": "receta-tostadas-aguacate-huevo",
+    "title": "Tostadas de aguacate y huevo",
+    "description": "Pan crujiente con aguacate cremoso y huevo para un desayuno completo.",
+    "category": "Desayuno",
+    "prepMinutes": 15,
+    "imageUrl": "https://img-global.cpcdn.com/recipes/7167956f2eac5fc1/1200x630cq80/photo.jpg",
+    "ingredients": [
+      "2 rebanadas de pan integral",
+      "1 aguacate maduro",
+      "2 huevos",
+      "1/2 limón, su jugo",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Tuesta las rebanadas de pan.",
+      "Pisa el aguacate con el jugo de limón, sal y pimienta.",
+      "Cocina los huevos a tu gusto.",
+      "Unta el aguacate sobre el pan y coloca un huevo encima de cada tostada."
+    ],
+    "updatedAt": "2026-10-25T02:46:08.051Z"
+  },
+  {
+    "id": "receta-omelette-queso-espinaca",
+    "title": "Omelette de queso y espinaca",
+    "description": "Una opción rápida y sabrosa con espinaca fresca y queso derretido.",
+    "category": "Desayuno",
+    "prepMinutes": 15,
+    "imageUrl": "https://cdn7.kiwilimon.com/recetaimagen/38056/640x640/48525.jpg.webp",
+    "ingredients": [
+      "2 huevos",
+      "1/2 taza de espinaca fresca",
+      "1/4 taza de queso rallado",
+      "1 cucharada de leche",
+      "1 cucharadita de manteca",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Bate los huevos con la leche, la sal y la pimienta.",
+      "Derrite la manteca en una sartén y cocina la espinaca hasta que se ablande.",
+      "Vierte los huevos batidos y cocina a fuego bajo.",
+      "Agrega el queso, dobla el omelette y cocina hasta que el centro esté cuajado."
+    ],
+    "updatedAt": "2026-10-25T02:46:47.950Z"
+  },
+  {
+    "id": "receta-avena-manzana-canela",
+    "title": "Avena caliente con manzana y canela",
+    "description": "Un desayuno reconfortante, fácil de preparar y naturalmente dulce.",
+    "category": "Desayuno",
+    "prepMinutes": 15,
+    "imageUrl": "https://cdn.prod.website-files.com/60d3d8fa5d9afd1b693e896f/61b22839089795aa63d5e769_Avena%20de%20manzana.jpg",
+    "ingredients": [
+      "1 taza de avena",
+      "2 tazas de leche o bebida vegetal",
+      "1 manzana",
+      "1/2 cucharadita de canela",
+      "1 cucharadita de miel (opcional)"
+    ],
+    "steps": [
+      "Corta la manzana en cubos pequeños.",
+      "Calienta la leche en una olla y añade la avena, la manzana y la canela.",
+      "Cocina a fuego bajo durante 8 a 10 minutos, revolviendo hasta que espese.",
+      "Sirve caliente y agrega miel si deseas."
+    ],
+    "updatedAt": "2026-10-25T02:47:20.962Z"
+  },
+  {
+    "id": "receta-tostadas-francesas",
+    "title": "Tostadas francesas",
+    "description": "Rebanadas doradas con canela, suaves por dentro y crujientes por fuera.",
+    "category": "Desayuno",
+    "prepMinutes": 20,
+    "imageUrl": "https://gourmet.iprospect.cl/wp-content/uploads/2016/09/tostadas.jpg-editada.jpg",
+    "ingredients": [
+      "4 rebanadas de pan",
+      "2 huevos",
+      "1/2 taza de leche",
+      "1 cucharadita de esencia de vainilla",
+      "1/2 cucharadita de canela",
+      "1 cucharada de manteca",
+      "Fruta o miel para acompañar"
+    ],
+    "steps": [
+      "Bate los huevos con la leche, la vainilla y la canela.",
+      "Remoja cada rebanada de pan en la mezcla por ambos lados.",
+      "Derrite la manteca en una sartén y cocina las rebanadas hasta que estén doradas.",
+      "Sirve con fruta fresca o un poco de miel."
+    ],
+    "updatedAt": "2026-10-25T02:47:51.891Z"
+  },
+  {
+    "id": "receta-burrito-desayuno",
+    "title": "Burrito de desayuno",
+    "description": "Tortilla rellena de huevo, porotos y queso para empezar el día con energía.",
+    "category": "Desayuno",
+    "prepMinutes": 20,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx5CnZSltO5iMzmAb-WcyGGEZyKqVDuQcBQW0FRCi70kHM-nwyfISDqwR&s=10",
+    "ingredients": [
+      "2 tortillas de trigo",
+      "3 huevos",
+      "1/2 taza de porotos cocidos",
+      "1/4 taza de queso rallado",
+      "1 tomate pequeño",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Bate los huevos con sal y pimienta, y cocínalos revueltos en una sartén.",
+      "Calienta las tortillas y distribuye en el centro los huevos, los porotos y el queso.",
+      "Agrega el tomate cortado en cubos.",
+      "Dobla los extremos y enrolla cada tortilla. Sirve caliente."
+    ],
+    "updatedAt": "2026-10-25T02:48:26.210Z"
+  },
+  {
+    "id": "receta-smoothie-banana-frutilla",
+    "title": "Smoothie de banana y frutilla",
+    "description": "Batido fresco de frutas, ideal para acompañar el desayuno.",
+    "category": "Desayuno",
+    "prepMinutes": 5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYx5x72EYpUme_o7eURM1vKvFP2kN-VBXOi-63PZaS5p67Nsuic7qvod8r&s=10",
+    "ingredients": [
+      "1 banana",
+      "1 taza de frutillas",
+      "1 taza de yogur natural",
+      "1/2 taza de leche",
+      "1 cucharadita de miel (opcional)"
+    ],
+    "steps": [
+      "Lava las frutillas y retira sus hojas.",
+      "Coloca en la licuadora la banana, las frutillas, el yogur y la leche.",
+      "Licúa hasta obtener una mezcla homogénea.",
+      "Prueba y agrega miel si lo prefieres más dulce. Sirve frío."
+    ],
+    "updatedAt": "2026-10-25T02:49:09.965Z"
+  },
+  {
+    "id": "receta-tacos-pollo-mexicanos",
+    "title": "Tacos de pollo mexicanos",
+    "description": "Tortillas de maíz con pollo especiado, cebolla y cilantro fresco.",
+    "category": "Cena",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQhv9Tyue69RxMZuCtQoBSkMFEPhrArtm_xldvlS-tsTMeM1YaDqyex4&s=10",
+    "ingredients": [
+      "500 g de pechuga de pollo en tiras",
+      "8 tortillas de maíz",
+      "1 cebolla pequeña",
+      "1 cucharadita de pimentón",
+      "1/2 cucharadita de comino",
+      "1 lima",
+      "Cilantro fresco",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Condimenta el pollo con pimentón, comino, sal y pimienta.",
+      "Cocina el pollo en una sartén caliente hasta que esté dorado y completamente cocido.",
+      "Calienta las tortillas en una sartén seca.",
+      "Reparte el pollo en las tortillas y sirve con cebolla picada, cilantro y jugo de lima."
+    ],
+    "updatedAt": "2026-10-25T02:52:26.961Z"
+  },
+  {
+    "id": "receta-yakisoba-japones",
+    "title": "Yakisoba japonés",
+    "description": "Fideos salteados con verduras y una salsa sabrosa, listos en poco tiempo.",
+    "category": "Cena",
+    "prepMinutes": 30,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhoIBquAjpLzpD8p3iH0LGbyfsU06Epa2_SPstMBNswxFDyhUTffzM5L0&s=10",
+    "ingredients": [
+      "300 g de fideos para yakisoba o fideos de trigo",
+      "200 g de carne de cerdo en tiras",
+      "2 tazas de repollo en tiras",
+      "1 zanahoria en tiras finas",
+      "2 cucharadas de salsa de soja",
+      "1 cucharada de salsa inglesa",
+      "1 cucharadita de azúcar",
+      "1 cucharada de aceite"
+    ],
+    "steps": [
+      "Mezcla la salsa de soja, la salsa inglesa y el azúcar.",
+      "Cocina los fideos según las instrucciones del paquete y escúrrelos.",
+      "Saltea el cerdo en una sartén amplia con aceite hasta que esté bien cocido.",
+      "Añade el repollo y la zanahoria, y cocina hasta que estén tiernos pero firmes.",
+      "Incorpora los fideos y la salsa. Saltea todo junto durante unos minutos y sirve caliente."
+    ],
+    "updatedAt": "2026-10-25T02:53:19.767Z"
+  },
+  {
+    "id": "receta-risotto-champinones-italiano",
+    "title": "Risotto italiano de champiñones",
+    "description": "Arroz cremoso cocinado lentamente con champiñones y queso parmesano.",
+    "category": "Cena",
+    "prepMinutes": 40,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRle4QkPq2ttxi5n7XIsfI_UMgFE24WR6zMMlQkao8kmfKaeKYh8-1D1XA&s=10",
+    "ingredients": [
+      "1 taza de arroz arborio",
+      "200 g de champiñones laminados",
+      "1/2 cebolla picada",
+      "4 tazas de caldo caliente",
+      "1/3 taza de queso parmesano rallado",
+      "2 cucharadas de manteca",
+      "1 cucharada de aceite de oliva",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Dora los champiñones con el aceite en una olla y resérvalos.",
+      "En la misma olla, cocina la cebolla con una cucharada de manteca hasta que esté transparente.",
+      "Agrega el arroz y remueve durante un minuto.",
+      "Añade el caldo caliente de a poco, revolviendo y esperando a que se absorba antes de agregar más.",
+      "Cuando el arroz esté tierno y cremoso, incorpora los champiñones, el resto de la manteca y el parmesano. Condimenta y sirve."
+    ],
+    "updatedAt": "2026-10-25T02:54:00.960Z"
+  },
+  {
+    "id": "receta-chana-masala-indio",
+    "title": "Chana masala indio",
+    "description": "Garbanzos especiados en salsa de tomate, una cena vegetariana llena de sabor.",
+    "category": "Cena",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJbUBNH8ggq0DoD8HevkcwlyVV6zK8q60QTj-Iz57n1qkY1_tYnt3AhE&s=10",
+    "ingredients": [
+      "2 tazas de garbanzos cocidos",
+      "1 cebolla picada",
+      "2 tomates maduros picados",
+      "2 dientes de ajo picados",
+      "1 cucharadita de jengibre rallado",
+      "1 cucharadita de garam masala",
+      "1/2 cucharadita de cúrcuma",
+      "1 taza de agua",
+      "2 cucharadas de aceite",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Calienta el aceite y cocina la cebolla hasta que esté dorada.",
+      "Agrega el ajo, el jengibre, el garam masala y la cúrcuma; remueve durante 30 segundos.",
+      "Incorpora los tomates y cocina hasta que se forme una salsa espesa.",
+      "Añade los garbanzos y el agua. Cocina a fuego bajo durante 15 minutos y ajusta la sal.",
+      "Sirve caliente, acompañado de arroz o pan."
+    ],
+    "updatedAt": "2026-10-25T02:54:41.965Z"
+  },
+  {
+    "id": "receta-lomo-saltado-peruano",
+    "title": "Lomo saltado peruano",
+    "description": "Salteado de carne, tomate y cebolla inspirado en la cocina peruana.",
+    "category": "Cena",
+    "prepMinutes": 35,
+    "imageUrl": "https://okdiario.com/img/2026/08/03/lomo-saltado-peruano.jpg",
+    "ingredients": [
+      "400 g de carne vacuna en tiras",
+      "1 cebolla morada en gajos",
+      "2 tomates en gajos",
+      "2 cucharadas de salsa de soja",
+      "1 cucharada de vinagre",
+      "2 papas medianas",
+      "Cilantro fresco",
+      "Aceite, sal y pimienta"
+    ],
+    "steps": [
+      "Corta las papas en bastones y cocínalas al horno o fríelas hasta que estén doradas.",
+      "Calienta bien una sartén amplia con un poco de aceite y saltea la carne en tandas hasta que esté cocida y dorada.",
+      "Agrega la cebolla y cocina brevemente; incorpora el tomate, la salsa de soja y el vinagre.",
+      "Mezcla las papas con el salteado, ajusta la sal y la pimienta, y termina con cilantro picado."
+    ],
+    "updatedAt": "2026-10-25T02:55:20.500Z"
+  },
+  {
+    "id": "receta-moussaka-griega",
+    "title": "Moussaka griega",
+    "description": "Capas de berenjena, carne condimentada y salsa cremosa horneadas hasta dorarse.",
+    "category": "Cena",
+    "prepMinutes": 75,
+    "imageUrl": "https://i.blogs.es/011c57/musaka/1200_900.jpg",
+    "ingredients": [
+      "2 berenjenas",
+      "350 g de carne molida",
+      "1 cebolla picada",
+      "2 tomates picados",
+      "1/2 cucharadita de canela",
+      "2 cucharadas de aceite de oliva",
+      "1 taza de salsa bechamel",
+      "1/3 taza de queso rallado",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Corta las berenjenas en rodajas, colócalas en una bandeja y hornéalas a 200 °C hasta que estén tiernas.",
+      "Cocina la cebolla con aceite; añade la carne y cocina hasta que se dore.",
+      "Agrega los tomates, la canela, la sal y la pimienta. Cocina hasta que la salsa espese.",
+      "En una fuente para horno, alterna capas de berenjena y carne. Cubre con bechamel y queso.",
+      "Hornea a 190 °C durante 25 a 30 minutos, hasta que la superficie esté dorada."
+    ],
+    "updatedAt": "2026-10-25T02:56:07.782Z"
+  },
+  {
+    "id": "receta-huevos-rancheros",
+    "title": "Huevos rancheros",
+    "description": "Desayuno mexicano con huevos, tortillas y salsa de tomate casera.",
+    "category": "Desayuno",
+    "prepMinutes": 25,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9NUY6acDIyDmSc1RnvBri9rosD3dcEwnU-zCaNeCAuQ4ZcCroQ5IHd4&s=10",
+    "ingredients": [
+      "2 huevos",
+      "2 tortillas de maíz",
+      "2 tomates",
+      "1/4 cebolla",
+      "Aceite y sal"
+    ],
+    "steps": [
+      "Cocina los tomates y la cebolla picados hasta formar una salsa.",
+      "Fríe ligeramente las tortillas y cocina los huevos a tu gusto.",
+      "Sirve los huevos sobre las tortillas y cubre con la salsa caliente."
+    ],
+    "updatedAt": "2026-10-25T03:05:35.852Z"
+  },
+  {
+    "id": "receta-arepas-queso",
+    "title": "Arepas de queso",
+    "description": "Arepas doradas y tiernas, rellenas de queso derretido.",
+    "category": "Desayuno",
+    "prepMinutes": 30,
+    "imageUrl": "https://imag.bonviveur.com/arepas-colombianas-con-queso-partidas.jpg",
+    "ingredients": [
+      "2 tazas de harina de maíz precocida",
+      "2 tazas de agua tibia",
+      "1 taza de queso rallado",
+      "1 cucharadita de sal",
+      "1 cucharada de manteca"
+    ],
+    "steps": [
+      "Mezcla el agua con la sal y agrega la harina poco a poco.",
+      "Incorpora el queso y la manteca; forma discos gruesos.",
+      "Cocina las arepas en una sartén a fuego medio hasta dorar por ambos lados."
+    ],
+    "updatedAt": "2026-10-25T03:06:12.333Z"
+  },
+  {
+    "id": "receta-muffins-huevo",
+    "title": "Muffins de huevo y verduras",
+    "description": "Porciones individuales de huevo horneado con verduras y queso.",
+    "category": "Desayuno",
+    "prepMinutes": 30,
+    "imageUrl": "https://diabetesfoodhub.org/sites/foodhub/files/styles/recipe_hero_banner_720w/public/2025-07/savory_vegetable_egg_muffins.jpg?h=35d4fba7&itok=LMuHEblT",
+    "ingredients": [
+      "4 huevos",
+      "1/2 morrón picado",
+      "1/2 taza de espinaca",
+      "1/3 taza de queso rallado",
+      "Sal y pimienta"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y engrasa un molde para muffins.",
+      "Bate los huevos y mezcla con las verduras, el queso y los condimentos.",
+      "Reparte en el molde y hornea de 18 a 20 minutos, hasta que cuajen."
+    ],
+    "updatedAt": "2026-10-25T03:07:19.566Z"
+  },
+  {
+    "id": "receta-crepes-fruta",
+    "title": "Crepes dulces con fruta",
+    "description": "Crepes finos y suaves para acompañar con fruta fresca.",
+    "category": "Desayuno",
+    "prepMinutes": 25,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRT3OL6nYejSzUtF0rw4Gja1SiEzj3eW_h2px7rRnhXfzI3Pz6SqIssn8C&s=10",
+    "ingredients": [
+      "1 taza de harina",
+      "1 huevo",
+      "1 taza de leche",
+      "1 cucharadita de azúcar",
+      "Fruta fresca para servir"
+    ],
+    "steps": [
+      "Bate la harina, el huevo, la leche y el azúcar hasta que no queden grumos.",
+      "Vierte una capa fina de mezcla en una sartén antiadherente caliente.",
+      "Cocina brevemente de ambos lados y sirve con fruta."
+    ],
+    "updatedAt": "2026-10-25T03:07:54.205Z"
+  },
+  {
+    "id": "receta-avena-nocturna-cacao",
+    "title": "Avena nocturna con cacao",
+    "description": "Avena fría preparada con anticipación para una mañana sencilla.",
+    "category": "Desayuno",
+    "prepMinutes": 10,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzvPtb_CIEXIf7Y91L693BY0FC8S0VyjlXc-ywoi-WcLoRUoa4EO17jhU&s=10",
+    "ingredients": [
+      "1/2 taza de avena",
+      "1/2 taza de leche",
+      "1/3 taza de yogur natural",
+      "1 cucharadita de cacao",
+      "1 cucharadita de miel"
+    ],
+    "steps": [
+      "Mezcla la avena con la leche, el yogur, el cacao y la miel.",
+      "Tapa el recipiente y refrigera durante al menos 6 horas.",
+      "Revuelve y agrega fruta o frutos secos antes de servir."
+    ],
+    "updatedAt": "2026-10-25T03:08:55.100Z"
+  },
+  {
+    "id": "receta-granola-casera",
+    "title": "Granola casera",
+    "description": "Mezcla crujiente de avena y frutos secos para el desayuno.",
+    "category": "Desayuno",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO2RO8l38rktYHeu6FWArLODzPWMeq7lDHZWMc--0KHg&s=10",
+    "ingredients": [
+      "2 tazas de avena",
+      "1/2 taza de nueces picadas",
+      "2 cucharadas de miel",
+      "2 cucharadas de aceite",
+      "1/2 cucharadita de canela"
+    ],
+    "steps": [
+      "Precalienta el horno a 170 °C.",
+      "Mezcla todos los ingredientes y extiéndelos en una bandeja.",
+      "Hornea de 20 a 25 minutos, removiendo a mitad de cocción; deja enfriar."
+    ],
+    "updatedAt": "2026-10-25T03:09:25.770Z"
+  },
+  {
+    "id": "receta-sopa-lentejas",
+    "title": "Sopa de lentejas",
+    "description": "Guiso sencillo de lentejas con verduras para un almuerzo nutritivo.",
+    "category": "Almuerzo",
+    "prepMinutes": 50,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXe8lck8wPPwaI8MVOdNg96YYrvhLi7EKca1-yAX_iMA&s=10",
+    "ingredients": [
+      "1 taza de lentejas",
+      "1 zanahoria en cubos",
+      "1 cebolla picada",
+      "1 tomate picado",
+      "4 tazas de caldo",
+      "Sal y comino"
+    ],
+    "steps": [
+      "Enjuaga las lentejas y colócalas en una olla con el caldo.",
+      "Agrega la zanahoria, la cebolla y el tomate; cocina hasta que estén tiernos.",
+      "Condimenta al gusto y sirve caliente."
+    ],
+    "updatedAt": "2026-10-25T03:12:55.144Z"
+  },
+  {
+    "id": "receta-ensalada-cesar-pollo",
+    "title": "Ensalada César con pollo",
+    "description": "Lechuga crujiente, pollo dorado y aderezo cremoso.",
+    "category": "Almuerzo",
+    "prepMinutes": 30,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM1px_C4BRT4Zc7ZQJUftwO6I1-8-G9Y3adgfEgq4bAZnaCDkUshe0vl-S3w6S37kimHBl9QSysoXpOZI_HTlMceCAfEqxG-eAn6zIQ7SOpA&s=10",
+    "ingredients": [
+      "1 pechuga de pollo",
+      "1 lechuga romana",
+      "1/2 taza de crutones",
+      "1/4 taza de parmesano",
+      "3 cucharadas de aderezo César"
+    ],
+    "steps": [
+      "Cocina el pollo en una sartén hasta que esté bien cocido y córtalo en tiras.",
+      "Trocea la lechuga y mézclala con el aderezo.",
+      "Agrega el pollo, los crutones y el parmesano."
+    ],
+    "updatedAt": "2026-10-25T03:13:19.569Z"
+  },
+  {
+    "id": "receta-curry-suave-pollo",
+    "title": "Curry suave de pollo",
+    "description": "Pollo tierno en salsa especiada de tomate y leche de coco.",
+    "category": "Almuerzo",
+    "prepMinutes": 40,
+    "imageUrl": "https://recetasdecocina.elmundo.es/wp-content/uploads/2022/09/pollo-al-curry-receta-facil.jpg",
+    "ingredients": [
+      "400 g de pollo en cubos",
+      "1 cebolla picada",
+      "1 taza de tomate triturado",
+      "1 taza de leche de coco",
+      "1 cucharada de curry",
+      "Aceite y sal"
+    ],
+    "steps": [
+      "Dora la cebolla y el pollo en una olla con un poco de aceite.",
+      "Añade el curry y el tomate; cocina durante 10 minutos.",
+      "Incorpora la leche de coco y cocina a fuego bajo hasta que el pollo esté cocido."
+    ],
+    "updatedAt": "2026-10-25T03:13:53.992Z"
+  },
+  {
+    "id": "receta-lasana-verduras",
+    "title": "Lasaña de verduras",
+    "description": "Capas de pasta con verduras, salsa de tomate y queso gratinado.",
+    "category": "Almuerzo",
+    "prepMinutes": 65,
+    "imageUrl": "https://imagenes.elpais.com/resizer/v2/4CKPGP62NNEJ3EOO7VWUDNBFYY.png?auth=26940ec22f0a45914730f0695dc0507717c910ae7d061186f35b12cd72b776a0&width=1960&height=1470&smart=true",
+    "ingredients": [
+      "8 láminas de lasaña",
+      "1 zucchini en cubos",
+      "1 berenjena en cubos",
+      "2 tazas de salsa de tomate",
+      "1 taza de queso mozzarella"
+    ],
+    "steps": [
+      "Cocina el zucchini y la berenjena en una sartén hasta que estén tiernos.",
+      "En una fuente, alterna salsa, láminas de pasta y verduras.",
+      "Cubre con mozzarella y hornea a 190 °C durante 35 a 40 minutos."
+    ],
+    "updatedAt": "2026-10-25T03:14:24.833Z"
+  },
+  {
+    "id": "receta-pimientos-rellenos-arroz",
+    "title": "Pimientos rellenos de arroz",
+    "description": "Pimientos horneados con arroz, verduras y queso.",
+    "category": "Almuerzo",
+    "prepMinutes": 50,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNoT4KR4bVasJwDn5GaWIR41mcsb0MqlCLo93dpJMiJti98HEN3s4MQ7tUqBczumw1bgF9sncx6YIkRn2kzo1gh7ODuN0x3b2XkBbGa45H&s=10",
+    "ingredients": [
+      "3 pimientos",
+      "1 taza de arroz cocido",
+      "1/2 taza de choclo",
+      "1 tomate picado",
+      "1/2 taza de queso rallado"
+    ],
+    "steps": [
+      "Corta los pimientos por la mitad y retira las semillas.",
+      "Mezcla el arroz con el choclo y el tomate; rellena los pimientos.",
+      "Cubre con queso y hornea a 190 °C durante 30 minutos."
+    ],
+    "updatedAt": "2026-10-25T03:15:03.012Z"
+  },
+  {
+    "id": "receta-tortilla-espinaca",
+    "title": "Tortilla de espinaca",
+    "description": "Tortilla jugosa de huevo y espinaca, fácil de preparar.",
+    "category": "Almuerzo",
+    "prepMinutes": 25,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTHrclgGfNT1fZNMRY-JOIcfaFTXFWQzdhzT2H4Yg8Mg&s=10",
+    "ingredients": [
+      "4 huevos",
+      "2 tazas de espinaca",
+      "1/2 cebolla picada",
+      "1/3 taza de queso rallado",
+      "Aceite y sal"
+    ],
+    "steps": [
+      "Saltea la cebolla y la espinaca hasta que estén tiernas.",
+      "Bate los huevos con sal y mezcla con las verduras y el queso.",
+      "Cocina en una sartén a fuego bajo, dando vuelta cuando la base esté firme."
+    ],
+    "updatedAt": "2026-10-25T03:15:35.675Z"
+  },
+  {
+    "id": "receta-arroz-pollo-verduras",
+    "title": "Arroz con pollo y verduras",
+    "description": "Plato casero de arroz con pollo, zanahoria y arvejas.",
+    "category": "Almuerzo",
+    "prepMinutes": 45,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW3VrLyBILsH_t2ZDJ-lOmNsA0FeHiOpyO2v8nxuanLQ&s=10",
+    "ingredients": [
+      "1 taza de arroz",
+      "300 g de pollo en cubos",
+      "1 zanahoria picada",
+      "1/2 taza de arvejas",
+      "2 tazas de caldo",
+      "Aceite y sal"
+    ],
+    "steps": [
+      "Dora el pollo en una olla con un poco de aceite.",
+      "Agrega la zanahoria, el arroz y el caldo; mezcla y condimenta.",
+      "Tapa y cocina a fuego bajo hasta que el arroz esté tierno; incorpora las arvejas al final."
+    ],
+    "updatedAt": "2026-10-25T03:16:14.356Z"
+  },
+  {
+    "id": "receta-pescado-horno-tomate",
+    "title": "Pescado al horno con tomate",
+    "description": "Filetes de pescado horneados con tomate, limón y hierbas.",
+    "category": "Almuerzo",
+    "prepMinutes": 30,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvq21vMkn5YYZ7-_KGarLTryh4o65-CgzwVm9nNpKLxRjzQvfZMg_QxzAk&s=10",
+    "ingredients": [
+      "2 filetes de pescado blanco",
+      "2 tomates en rodajas",
+      "1 limón",
+      "1 cucharada de aceite de oliva",
+      "Perejil, sal y pimienta"
+    ],
+    "steps": [
+      "Precalienta el horno a 190 °C y coloca el pescado en una fuente.",
+      "Distribuye el tomate encima y añade aceite, limón y condimentos.",
+      "Hornea de 18 a 22 minutos, hasta que el pescado se desmenuce fácilmente."
+    ],
+    "updatedAt": "2026-10-25T03:16:52.192Z"
+  },
+  {
+    "id": "receta-salmon-horno-limon",
+    "title": "Salmón al horno con limón",
+    "description": "Filete de salmón aromatizado con limón y hierbas.",
+    "category": "Cena",
+    "prepMinutes": 25,
+    "imageUrl": "https://www.justspices.es/media/recipe/salmon-horno-limon.jpg",
+    "ingredients": [
+      "2 filetes de salmón",
+      "1 limón",
+      "1 cucharada de aceite de oliva",
+      "1 cucharadita de eneldo",
+      "Sal y pimienta"
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C y coloca el salmón en una fuente.",
+      "Añade aceite, jugo de limón, eneldo, sal y pimienta.",
+      "Hornea de 12 a 15 minutos, hasta que el pescado esté cocido."
+    ],
+    "updatedAt": "2026-10-25T03:17:33.645Z"
+  },
+  {
+    "id": "receta-fajitas-verduras",
+    "title": "Fajitas de verduras",
+    "description": "Tiras de verduras salteadas y condimentadas para servir en tortillas.",
+    "category": "Cena",
+    "prepMinutes": 25,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFF5MbAKixp4nKTjAqnNhfwzaXdifsfkA_OrofDxTyQ&s=10",
+    "ingredients": [
+      "1 morrón rojo",
+      "1 morrón verde",
+      "1 cebolla",
+      "1 zucchini",
+      "1 cucharadita de pimentón",
+      "4 tortillas"
+    ],
+    "steps": [
+      "Corta todas las verduras en tiras finas.",
+      "Saltea con aceite y pimentón hasta que estén tiernas pero firmes.",
+      "Sirve dentro de tortillas calientes."
+    ],
+    "updatedAt": "2026-10-25T03:19:57.341Z"
+  },
+  {
+    "id": "receta-pad-thai",
+    "title": "Pad thai sencillo",
+    "description": "Fideos de arroz salteados con huevo, verduras y maní.",
+    "category": "Cena",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSy9MGHWxxIG7qdt_qJa3LsEVQ9I1FE6VOSVK2TcqRUyJXsqq1K7ObBJE&s=10",
+    "ingredients": [
+      "200 g de fideos de arroz",
+      "2 huevos",
+      "1 zanahoria en tiras",
+      "2 cucharadas de salsa de soja",
+      "1 lima",
+      "1/4 taza de maní"
+    ],
+    "steps": [
+      "Hidrata los fideos según las indicaciones del paquete.",
+      "Saltea la zanahoria y los huevos en una sartén amplia; agrega los fideos.",
+      "Añade la salsa de soja, mezcla y sirve con maní y lima."
+    ],
+    "updatedAt": "2026-10-25T03:20:20.582Z"
+  },
+  {
+    "id": "receta-ratatouille-frances",
+    "title": "Ratatouille francés",
+    "description": "Guiso provenzal de berenjena, zucchini, tomate y hierbas.",
+    "category": "Cena",
+    "prepMinutes": 55,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNYtHQdWNitJHiKUQBbCiJnbW9z-3tjPE44Tvu1I71PYQZWE94oskEeNNT6Ln5JzESWKRar_0O5sqH0Afx1lYLa-L3lQB9-EEn23BXqPL_&s=10",
+    "ingredients": [
+      "1 berenjena",
+      "1 zucchini",
+      "1 morrón",
+      "3 tomates",
+      "1 cebolla",
+      "Hierbas provenzales y aceite"
+    ],
+    "steps": [
+      "Corta las verduras en rodajas o cubos de tamaño similar.",
+      "Cocina la cebolla y el morrón; agrega el tomate y las hierbas.",
+      "Incorpora el zucchini y la berenjena; tapa y cocina a fuego bajo hasta que estén tiernos."
+    ],
+    "updatedAt": "2026-10-25T03:21:04.154Z"
+  },
+  {
+    "id": "receta-flan-vainilla",
+    "title": "Flan casero de vainilla",
+    "description": "Postre suave con caramelo, ideal para compartir.",
+    "category": "Postres",
+    "prepMinutes": 70,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX76f5cEW3UGM6TKzh5Oj5XNVSg-E0qDnSBw8qlimA97kV1iErFA4PXMT8&s=10",
+    "ingredients": [
+      "4 huevos",
+      "500 ml de leche",
+      "1/2 taza de azúcar",
+      "1 cucharadita de vainilla",
+      "1/2 taza de azúcar para caramelo"
+    ],
+    "steps": [
+      "Derrite el azúcar del caramelo y cubre la base de un molde.",
+      "Bate los huevos con la leche, el azúcar y la vainilla; vierte en el molde.",
+      "Cocina a baño María en horno a 170 °C durante 50 minutos. Enfría antes de desmoldar."
+    ],
+    "updatedAt": "2026-10-25T03:23:19.482Z"
+  },
+  {
+    "id": "receta-galletas-chips-chocolate",
+    "title": "Galletas con chips de chocolate",
+    "description": "Galletas tiernas con bordes dorados y trocitos de chocolate.",
+    "category": "Postres",
+    "prepMinutes": 30,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38srBaw1nOsVuF5Eq9f_4AS2sSfitHHPtyK5_MrE8dQ&s",
+    "ingredients": [
+      "1 1/2 tazas de harina",
+      "100 g de manteca",
+      "1/2 taza de azúcar",
+      "1 huevo",
+      "1/2 taza de chips de chocolate"
+    ],
+    "steps": [
+      "Bate la manteca con el azúcar y agrega el huevo.",
+      "Incorpora la harina y los chips de chocolate.",
+      "Forma bolitas y hornea a 180 °C durante 10 a 12 minutos."
+    ],
+    "updatedAt": "2026-10-25T03:23:44.778Z"
+  },
+  {
+    "id": "receta-torta-limon",
+    "title": "Torta de limón",
+    "description": "Bizcochuelo esponjoso con aroma y sabor cítrico.",
+    "category": "Postres",
+    "prepMinutes": 50,
+    "imageUrl": "https://peopleenespanol.com/thmb/XaIsKs0O5SDegdsax3HTQYYrHpI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7a4c52fa-b424-4308-b8fc-711baa709138-2000-bc7fd030b45e40408cb20f9408921b1a.jpg",
+    "ingredients": [
+      "2 tazas de harina",
+      "2 huevos",
+      "3/4 taza de azúcar",
+      "1/2 taza de leche",
+      "Ralladura y jugo de 1 limón",
+      "1 cucharadita de polvo de hornear"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y engrasa un molde.",
+      "Bate los huevos con el azúcar; agrega leche, limón y ralladura.",
+      "Incorpora harina y polvo de hornear. Hornea de 35 a 40 minutos."
+    ],
+    "updatedAt": "2026-10-25T03:24:06.086Z"
+  },
+  {
+    "id": "receta-panna-cotta-frutos-rojos",
+    "title": "Panna cotta con frutos rojos",
+    "description": "Postre italiano cremoso servido con salsa de frutos rojos.",
+    "category": "Postres",
+    "prepMinutes": 20,
+    "imageUrl": "https://www.giallozafferano.es/images/284-28429/panna-cotta-vegana_780x520_wm.jpg",
+    "ingredients": [
+      "400 ml de crema de leche",
+      "1/3 taza de azúcar",
+      "1 cucharadita de vainilla",
+      "7 g de gelatina sin sabor",
+      "1 taza de frutos rojos"
+    ],
+    "steps": [
+      "Hidrata la gelatina siguiendo las indicaciones del paquete.",
+      "Calienta la crema con el azúcar y la vainilla sin dejar que hierva; incorpora la gelatina.",
+      "Reparte en moldes y refrigera al menos 4 horas. Sirve con frutos rojos."
+    ],
+    "updatedAt": "2026-10-25T03:24:30.825Z"
+  },
+  {
+    "id": "receta-alfajores-maicena",
+    "title": "Alfajores de maicena",
+    "description": "Galletitas suaves unidas con dulce de leche y coco.",
+    "category": "Postres",
+    "prepMinutes": 50,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezTpyOURnYyLTLincD7ZFV7j3IBSRka311ukVDRxho424qw_qDiI6noRY&s=10",
+    "ingredients": [
+      "1 taza de harina",
+      "2 tazas de almidón de maíz",
+      "100 g de manteca",
+      "2 yemas",
+      "1/2 taza de azúcar",
+      "Dulce de leche y coco rallado"
+    ],
+    "steps": [
+      "Bate la manteca con el azúcar y las yemas; agrega la harina y el almidón.",
+      "Estira la masa, corta círculos y hornea a 180 °C durante 10 minutos.",
+      "Deja enfriar, une las tapas con dulce de leche y pasa los bordes por coco."
+    ],
+    "updatedAt": "2026-10-25T03:24:50.542Z"
+  },
+  {
+    "id": "receta-churros-caseros",
+    "title": "Churros caseros",
+    "description": "Churros dorados para acompañar con azúcar o chocolate.",
+    "category": "Postres",
+    "prepMinutes": 35,
+    "imageUrl": "https://www.giallozafferano.es/images/16-1616/churros_780x520_wm.jpg",
+    "ingredients": [
+      "1 taza de agua",
+      "1 taza de harina",
+      "1 cucharada de aceite",
+      "1 pizca de sal",
+      "Aceite para freír",
+      "Azúcar para espolvorear"
+    ],
+    "steps": [
+      "Hierve el agua con el aceite y la sal; retira del fuego y agrega la harina.",
+      "Mezcla hasta formar una masa firme y colócala en una manga con boquilla.",
+      "Forma churros y fríelos hasta dorar; escúrrelos y espolvorea azúcar."
+    ],
+    "updatedAt": "2026-10-25T03:25:29.835Z"
+  },
+  {
+    "id": "receta-mousse-limon",
+    "title": "Mousse de limón",
+    "description": "Postre frío, ligero y cítrico con pocos ingredientes.",
+    "category": "Postres",
+    "prepMinutes": 20,
+    "imageUrl": "https://www.recetasnestle.com.ar/sites/default/files/srh_recipes/13708699499d2cadc72b489dc63e789f.jpg",
+    "ingredients": [
+      "1 lata de leche condensada",
+      "200 ml de crema de leche",
+      "1/3 taza de jugo de limón",
+      "Ralladura de limón"
+    ],
+    "steps": [
+      "Bate la crema hasta que espese ligeramente.",
+      "Incorpora la leche condensada y el jugo de limón poco a poco.",
+      "Reparte en vasos y refrigera al menos 3 horas; termina con ralladura."
+    ],
+    "updatedAt": "2026-10-25T03:46:56.405Z"
+  },
+  {
+    "id": "receta-cheesecake-frio",
+    "title": "Cheesecake frío",
+    "description": "Tarta cremosa sin horno con base de galletitas.",
+    "category": "Postres",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-n0__OZKZirxs_x55nzYrQn67I0gPsbDu1ijRiHEeY8PuF0txLrNwSDF41gWHM5i-vuxMfKMvrOokKmBMp1R8xP45AeVuTPET4Dno6vX&s=10",
+    "ingredients": [
+      "200 g de galletitas",
+      "80 g de manteca derretida",
+      "300 g de queso crema",
+      "200 ml de crema de leche",
+      "1/2 taza de azúcar"
+    ],
+    "steps": [
+      "Tritura las galletitas y mézclalas con la manteca; presiona en un molde.",
+      "Bate el queso crema con el azúcar y mezcla con la crema batida.",
+      "Vierte sobre la base y refrigera al menos 5 horas antes de servir."
+    ],
+    "updatedAt": "2026-10-25T03:47:39.435Z"
+  },
+  {
+    "id": "receta-torta-zanahoria",
+    "title": "Torta de zanahoria",
+    "description": "Bizcochuelo húmedo de zanahoria con canela.",
+    "category": "Postres",
+    "prepMinutes": 60,
+    "imageUrl": "https://veggiefestchicago.org/wp-content/uploads/2021/04/21-carrot-cake.jpg",
+    "ingredients": [
+      "2 tazas de zanahoria rallada",
+      "2 tazas de harina",
+      "2 huevos",
+      "3/4 taza de azúcar",
+      "1/2 taza de aceite",
+      "1 cucharadita de canela"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y engrasa un molde.",
+      "Mezcla los huevos, el azúcar y el aceite; incorpora la zanahoria.",
+      "Agrega la harina y la canela; hornea de 40 a 45 minutos."
+    ],
+    "updatedAt": "2026-10-25T03:48:23.116Z"
+  },
+  {
+    "id": "receta-crumble-manzana",
+    "title": "Crumble de manzana",
+    "description": "Manzanas tibias con una cubierta crocante de avena.",
+    "category": "Postres",
+    "prepMinutes": 45,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCq4daTiACKHtcDC6AQ29uQBHxLUDZeGkB3_FmmWNg7qYGvfinsLBi_EXPKyAzTSFDdyl6XZz3M75f6__PdSo8gb5RDbjvfeq1QREPy8Rd&s=10",
+    "ingredients": [
+      "3 manzanas",
+      "1/2 taza de avena",
+      "1/2 taza de harina",
+      "1/3 taza de azúcar",
+      "60 g de manteca",
+      "1/2 cucharadita de canela"
+    ],
+    "steps": [
+      "Corta las manzanas y colócalas en una fuente con la canela.",
+      "Mezcla la avena, la harina, el azúcar y la manteca hasta formar migas.",
+      "Cubre las manzanas y hornea a 180 °C durante 30 minutos."
+    ],
+    "updatedAt": "2026-10-25T03:48:47.946Z"
+  },
+  {
+    "id": "receta-trufas-cacao-coco",
+    "title": "Trufas de cacao y coco",
+    "description": "Bocaditos dulces sin horno, fáciles de preparar.",
+    "category": "Postres",
+    "prepMinutes": 20,
+    "imageUrl": "https://i0.wp.com/postresoriginales.com/wp-content/uploads/2017/02/Trufas-de-Coco-12.jpg?fit=4928%2C3264&ssl=1",
+    "ingredients": [
+      "1 taza de avena molida",
+      "3 cucharadas de cacao",
+      "3 cucharadas de miel",
+      "2 cucharadas de mantequilla de maní",
+      "Coco rallado"
+    ],
+    "steps": [
+      "Mezcla la avena con el cacao, la miel y la mantequilla de maní.",
+      "Forma bolitas pequeñas con las manos.",
+      "Pásalas por coco rallado y refrigera durante 30 minutos."
+    ],
+    "updatedAt": "2026-10-25T03:49:17.141Z"
+  },
+  {
+    "id": "receta-guacamole-fresco",
+    "title": "Guacamole fresco",
+    "description": "Dip cremoso de aguacate, tomate y lima para compartir.",
+    "category": "Snacks",
+    "prepMinutes": 10,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV8umw7KfHjlI46QEOsAuehT2lEbsy5gbSZKGp-lUjC3uRU-l2Ni8pNJLSgRjuz4AFbPCkmLlqVopms6d5D-N27ZNAp1KoQ32BpXKKOQ&s=10",
+    "ingredients": [
+      "2 aguacates maduros",
+      "1 tomate picado",
+      "1/4 cebolla picada",
+      "1 lima",
+      "Cilantro y sal"
+    ],
+    "steps": [
+      "Pisa los aguacates con un tenedor.",
+      "Agrega el tomate, la cebolla, el cilantro y el jugo de lima.",
+      "Condimenta y sirve enseguida con tostadas o vegetales."
+    ],
+    "updatedAt": "2026-10-25T04:01:18.258Z"
+  },
+  {
+    "id": "receta-bruschetta-tomate",
+    "title": "Bruschettas de tomate",
+    "description": "Pan tostado con tomate fresco, ajo y albahaca.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9CuFD08HXbq8WrWQoiWVUM5SE3YJABe7-pRucEyJV_j2sGlI6jfnqCDB&s=10",
+    "ingredients": [
+      "1 baguette pequeña",
+      "2 tomates",
+      "1 diente de ajo",
+      "Hojas de albahaca",
+      "Aceite de oliva y sal"
+    ],
+    "steps": [
+      "Corta el pan en rebanadas y tuéstalo.",
+      "Pica el tomate y mézclalo con albahaca, aceite y sal.",
+      "Frota el pan con ajo y coloca encima la mezcla de tomate."
+    ],
+    "updatedAt": "2026-10-25T03:52:23.172Z"
+  },
+  {
+    "id": "receta-palomitas-especiadas",
+    "title": "Palomitas especiadas",
+    "description": "Palomitas caseras con pimentón y un toque de queso.",
+    "category": "Snacks",
+    "prepMinutes": 10,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ067Pkm7-zsHtlTVwzpqcRBwebz2liEQR77Ym3A1Cr3m_ebKiZDyKXDpA&s=10",
+    "ingredients": [
+      "1/3 taza de maíz para palomitas",
+      "1 cucharada de aceite",
+      "1/2 cucharadita de pimentón",
+      "2 cucharadas de queso rallado",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Calienta el aceite en una olla con tapa y agrega el maíz.",
+      "Mueve la olla mientras revientan los granos; retira del fuego cuando dejen de sonar.",
+      "Condimenta con pimentón, queso y sal."
+    ],
+    "updatedAt": "2026-10-25T03:50:43.595Z"
+  },
+  {
+    "id": "receta-papas-gajo-horno",
+    "title": "Papas gajo al horno",
+    "description": "Papas crocantes con hierbas, perfectas para picar.",
+    "category": "Snacks",
+    "prepMinutes": 40,
+    "imageUrl": "https://www.nutricionesencial.es/wp-content/uploads/2016/12/patatas-gajo5-ps-703x1024.jpg",
+    "ingredients": [
+      "4 papas",
+      "2 cucharadas de aceite",
+      "1 cucharadita de pimentón",
+      "1/2 cucharadita de ajo en polvo",
+      "Sal y orégano"
+    ],
+    "steps": [
+      "Precalienta el horno a 210 °C y corta las papas en gajos.",
+      "Mézclalas con aceite, pimentón, ajo, sal y orégano.",
+      "Hornea de 30 a 35 minutos, dando vuelta a mitad de cocción."
+    ],
+    "updatedAt": "2026-10-25T03:51:33.112Z"
+  },
+  {
+    "id": "receta-quesadillas-queso",
+    "title": "Quesadillas de queso",
+    "description": "Tortillas doradas con queso fundido, listas en minutos.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/quesadilla_84511_16x9.jpg",
+    "ingredients": [
+      "4 tortillas de trigo",
+      "1 taza de queso rallado",
+      "1 tomate pequeño picado",
+      "Orégano al gusto"
+    ],
+    "steps": [
+      "Coloca queso y tomate sobre la mitad de cada tortilla.",
+      "Dobla las tortillas y cocínalas en una sartén seca.",
+      "Dora por ambos lados hasta que el queso se derrita; corta y sirve."
+    ],
+    "updatedAt": "2026-10-25T03:56:03.777Z"
+  },
+  {
+    "id": "receta-bolitas-avena-mani",
+    "title": "Bolitas de avena y maní",
+    "description": "Bocaditos energéticos sin horno para llevar a cualquier parte.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUoBT1ja90FMYtfw1g__3h3Xf012nBumcsOB2xAmcRPmTqKabXzckE6OT&s=10",
+    "ingredients": [
+      "1 taza de avena",
+      "1/2 taza de mantequilla de maní",
+      "3 cucharadas de miel",
+      "2 cucharadas de pasas"
+    ],
+    "steps": [
+      "Mezcla todos los ingredientes en un recipiente.",
+      "Refrigera la mezcla durante 20 minutos para que tome consistencia.",
+      "Forma bolitas y conserva en frío."
+    ],
+    "updatedAt": "2026-10-25T03:56:42.658Z"
+  },
+  {
+    "id": "receta-rollitos-pepino-queso",
+    "title": "Rollitos de pepino y queso",
+    "description": "Bocados frescos de pepino con relleno cremoso de hierbas.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckROhtPANUG7A41Es1TYPhaZHTgFOXZMR0kvWwQ8Igw&s=10",
+    "ingredients": [
+      "1 pepino grande",
+      "100 g de queso crema",
+      "1 cucharada de perejil picado",
+      "1 cucharadita de jugo de limón",
+      "Sal y pimienta"
+    ],
+    "steps": [
+      "Corta el pepino a lo largo en láminas finas.",
+      "Mezcla el queso crema con perejil, limón, sal y pimienta.",
+      "Unta cada lámina, enróllala y sirve fría."
+    ],
+    "updatedAt": "2026-10-25T03:57:48.510Z"
+  },
+  {
+    "id": "receta-nachos-queso-horno",
+    "title": "Nachos con queso al horno",
+    "description": "Totopos calientes con queso fundido y tomate fresco.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://www.recetasdeescandalo.com/wp-content/uploads/2020/03/Nachos-con-queso-guacamole-y-chili-con-carne-al-horno.jpg",
+    "ingredients": [
+      "150 g de nachos de maíz",
+      "1 taza de queso rallado",
+      "1 tomate picado",
+      "2 cucharadas de choclo",
+      "Cilantro al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 190 °C y distribuye los nachos en una bandeja.",
+      "Añade el queso y el choclo; hornea hasta que el queso se derrita.",
+      "Termina con tomate y cilantro picados."
+    ],
+    "updatedAt": "2026-10-25T03:58:23.757Z"
+  },
+  {
+    "id": "receta-huevos-rellenos",
+    "title": "Huevos rellenos",
+    "description": "Huevos duros rellenos con una mezcla suave y condimentada.",
+    "category": "Snacks",
+    "prepMinutes": 25,
+    "imageUrl": "https://i.blogs.es/f0d1b8/huevos_rellenos/1200_900.jpg",
+    "ingredients": [
+      "4 huevos",
+      "2 cucharadas de mayonesa",
+      "1 cucharadita de mostaza",
+      "Pimentón y sal al gusto"
+    ],
+    "steps": [
+      "Hierve los huevos durante 10 minutos, enfríalos y pélalos.",
+      "Córtalos por la mitad y mezcla las yemas con mayonesa, mostaza y sal.",
+      "Rellena las claras y espolvorea con pimentón."
+    ],
+    "updatedAt": "2026-10-25T03:58:53.053Z"
+  },
+  {
+    "id": "receta-dip-yogur-pepino",
+    "title": "Dip de yogur y pepino",
+    "description": "Salsa fresca de yogur y pepino para acompañar vegetales o pan.",
+    "category": "Snacks",
+    "prepMinutes": 10,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfJcPufozaeySeXAeEe7ATLYK_AOntRI4ABe49ZxhhnxrFp9mSIwAUnNc&s=10",
+    "ingredients": [
+      "1 taza de yogur natural",
+      "1/2 pepino rallado",
+      "1 cucharada de jugo de limón",
+      "1 cucharada de menta picada",
+      "Sal y pimienta"
+    ],
+    "steps": [
+      "Ralla el pepino y escúrrelo para retirar el exceso de líquido.",
+      "Mézclalo con el yogur, el limón y la menta.",
+      "Condimenta y refrigera unos minutos antes de servir."
+    ],
+    "updatedAt": "2026-10-25T03:59:26.396Z"
+  },
+  {
+    "id": "receta-garbanzos-crocantes",
+    "title": "Garbanzos crocantes",
+    "description": "Snack horneado y especiado con garbanzos, fácil de preparar.",
+    "category": "Snacks",
+    "prepMinutes": 40,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3kk9xcflBePYl27CU35zqJH3eputyyCIACVb8eghJ0RVvG9GeXwFMTpE&s=10",
+    "ingredients": [
+      "2 tazas de garbanzos cocidos",
+      "1 cucharada de aceite",
+      "1/2 cucharadita de comino",
+      "1/2 cucharadita de pimentón",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C y seca bien los garbanzos.",
+      "Mézclalos con aceite, comino, pimentón y sal.",
+      "Extiéndelos en una bandeja y hornea de 30 a 35 minutos, removiendo una vez."
+    ],
+    "updatedAt": "2026-10-25T03:59:55.677Z"
+  },
+  {
+    "id": "receta-mini-pizzas-pan",
+    "title": "Mini pizzas de pan",
+    "description": "Bocaditos rápidos con pan, salsa de tomate y queso fundido.",
+    "category": "Snacks",
+    "prepMinutes": 20,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZt35h9CfS1HyUeFfCewBnK59d35fN2ej5m_Fo_uKz6yXKzc7EAGQNCTHV&s=10",
+    "ingredients": [
+      "4 rebanadas de pan",
+      "1/2 taza de salsa de tomate",
+      "1 taza de mozzarella rallada",
+      "Orégano al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C y coloca el pan en una bandeja.",
+      "Cubre cada rebanada con salsa y mozzarella.",
+      "Espolvorea orégano y hornea de 8 a 10 minutos."
+    ],
+    "updatedAt": "2026-10-25T04:00:26.861Z"
+  },
+  {
+    "id": "receta-pudin-chia-frutos-rojos",
+    "title": "Pudín de chía y frutos rojos",
+    "description": "Un desayuno cremoso que puedes dejar listo la noche anterior.",
+    "category": "Desayuno",
+    "prepMinutes": 10,
+    "imageUrl": "https://cdn7.kiwilimon.com/recetaimagen/25559/640x640/21829.jpg.webp",
+    "ingredients": [
+      "3 cucharadas de semillas de chía",
+      "1 taza de leche o bebida vegetal",
+      "1 cucharadita de miel o sirope",
+      "1/2 taza de frutos rojos"
+    ],
+    "steps": [
+      "Mezcla las semillas de chía con la leche y la miel en un recipiente.",
+      "Deja reposar 5 minutos, vuelve a mezclar y refrigera al menos 3 horas.",
+      "Sirve con los frutos rojos por encima."
+    ],
+    "updatedAt": "2026-10-25T12:47:58.377Z"
+  },
+  {
+    "id": "receta-tortitas-avena-platano",
+    "title": "Tortitas de avena y plátano",
+    "description": "Tortitas tiernas y naturalmente dulces para el desayuno.",
+    "category": "Desayuno",
+    "prepMinutes": 20,
+    "imageUrl": "https://imag.bonviveur.com/tortitas-de-avena-y-platano-foto-cerca.webp",
+    "ingredients": [
+      "1 plátano maduro",
+      "1 huevo",
+      "1/2 taza de copos de avena",
+      "1/4 taza de leche",
+      "1/2 cucharadita de canela",
+      "1 cucharadita de aceite para la sartén"
+    ],
+    "steps": [
+      "Machaca el plátano y mézclalo con el huevo, la avena, la leche y la canela.",
+      "Calienta una sartén ligeramente engrasada a fuego medio.",
+      "Vierte porciones de la mezcla y cocina 2 minutos por lado, hasta que estén doradas."
+    ],
+    "updatedAt": "2026-10-25T12:48:39.958Z"
+  },
+  {
+    "id": "receta-quesadilla-huevo-queso-espinacas",
+    "title": "Quesadilla de huevo, queso y espinacas",
+    "description": "Una quesadilla rápida con huevo revuelto, queso fundido y espinacas.",
+    "category": "Desayuno",
+    "prepMinutes": 15,
+    "imageUrl": "https://www.thomas.com.pe/media/wysiwyg/ThomasPE/Recetas/Quesadilla_de_huevo_y_espinaca_-_2.png",
+    "ingredients": [
+      "1 tortilla de trigo grande",
+      "2 huevos",
+      "1/2 taza de espinacas frescas",
+      "1/3 taza de queso rallado",
+      "1 cucharadita de aceite",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Saltea las espinacas con el aceite hasta que se ablanden.",
+      "Añade los huevos batidos, condimenta y remueve hasta que estén cuajados.",
+      "Coloca el huevo y las espinacas sobre la tortilla, agrega el queso y dóblala.",
+      "Dora la quesadilla en la sartén por ambos lados hasta que el queso se funda."
+    ],
+    "updatedAt": "2026-10-25T12:50:17.943Z"
+  },
+  {
+    "id": "receta-salmon-plancha-quinoa-vegetales",
+    "title": "Salmón a la plancha con quinoa y vegetales",
+    "description": "Un plato completo de salmón dorado, quinoa y vegetales frescos.",
+    "category": "Almuerzo",
+    "prepMinutes": 30,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarFekJTP-GyVa7V5QvgIB8Sm7mqA6T1AivOwS1260WyoHyamTTf3ZihEA&s=10",
+    "ingredients": [
+      "2 filetes de salmón",
+      "1/2 taza de quinoa",
+      "1 taza de brócoli en floretes",
+      "1 zanahoria en rodajas",
+      "1 limón",
+      "1 cucharada de aceite de oliva",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Enjuaga la quinoa y cuécela siguiendo las indicaciones del paquete.",
+      "Cocina el brócoli y la zanahoria al vapor hasta que estén tiernos pero firmes.",
+      "Condimenta el salmón y cocínalo en una plancha con la mitad del aceite, 3 o 4 minutos por lado.",
+      "Sirve el salmón con la quinoa y los vegetales; termina con zumo de limón."
+    ],
+    "updatedAt": "2026-10-25T12:52:06.059Z"
+  },
+  {
+    "id": "receta-pechuga-pollo-horno-patatas-ensalada",
+    "title": "Pechuga de pollo al horno con patatas y ensalada",
+    "description": "Pollo jugoso al horno acompañado de patatas doradas y ensalada fresca.",
+    "category": "Almuerzo",
+    "prepMinutes": 50,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8dpdLbyp1vWzcGLG1FroeWQlBSSrdowpSS2ZYfVP0g&s",
+    "ingredients": [
+      "2 pechugas de pollo",
+      "400 g de patatas",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharadita de pimentón dulce",
+      "2 tazas de hojas verdes para ensalada",
+      "1 tomate",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C y corta las patatas en gajos.",
+      "Mezcla las patatas con una cucharada de aceite, pimentón, sal y pimienta; hornéalas 20 minutos.",
+      "Coloca el pollo condimentado en la bandeja y hornea otros 20 a 25 minutos, hasta que esté bien cocido.",
+      "Prepara la ensalada con las hojas verdes, el tomate y el aceite restante, y sirve junto al pollo y las patatas."
+    ],
+    "updatedAt": "2026-10-25T12:52:51.202Z"
+  },
+  {
+    "id": "receta-lentejas-guisadas-verduras",
+    "title": "Lentejas guisadas con verduras",
+    "description": "Un guiso casero de lentejas con verduras, reconfortante y nutritivo.",
+    "category": "Almuerzo",
+    "prepMinutes": 50,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShqJiP3PAlkYAQd2sMxVRzMdfF9Gl6ep1Z5qCVHSmr2dssratV4GsNqpQ&s=10",
+    "ingredients": [
+      "200 g de lentejas secas",
+      "1 zanahoria en cubos",
+      "1/2 pimiento en cubos",
+      "1/2 cebolla picada",
+      "1 tomate picado",
+      "1 hoja de laurel",
+      "750 ml de caldo de verduras o agua",
+      "1 cucharada de aceite de oliva",
+      "Sal y pimentón al gusto"
+    ],
+    "steps": [
+      "Enjuaga las lentejas y reserva.",
+      "Sofríe la cebolla, la zanahoria y el pimiento con el aceite durante 5 minutos.",
+      "Añade el tomate, las lentejas, el laurel y el caldo; lleva a ebullición.",
+      "Cocina a fuego bajo durante 30 a 40 minutos, hasta que las lentejas estén tiernas. Condimenta antes de servir."
+    ],
+    "updatedAt": "2026-10-25T12:56:22.784Z"
+  },
+  {
+    "id": "receta-ensalada-atun-huevo-duro",
+    "title": "Ensalada completa de atún y huevo duro",
+    "description": "Una ensalada fresca y saciante con atún, huevo y vegetales.",
+    "category": "Almuerzo",
+    "prepMinutes": 20,
+    "imageUrl": "https://www.mexirecetas.com/recetas-de-cocina-ligera/img600/im-ensalada-espinacas.jpg",
+    "ingredients": [
+      "1 lata de atún escurrido",
+      "2 huevos",
+      "2 tazas de hojas verdes",
+      "1 tomate",
+      "1/2 pepino",
+      "1/4 de cebolla morada",
+      "1 cucharada de aceite de oliva",
+      "1 cucharada de zumo de limón",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Cuece los huevos en agua hirviendo durante 9 a 10 minutos, enfríalos y pélalos.",
+      "Reparte las hojas verdes en una fuente y añade el tomate, el pepino y la cebolla cortados.",
+      "Agrega el atún desmenuzado y los huevos cortados en cuartos.",
+      "Aliña con aceite, zumo de limón, sal y pimienta."
+    ],
+    "updatedAt": "2026-10-25T12:58:16.657Z"
+  },
+  {
+    "id": "receta-crema-calabaza-zanahoria",
+    "title": "Crema de calabaza y zanahoria",
+    "description": "Una crema suave y reconfortante de calabaza y zanahoria.",
+    "category": "Cena",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAL5XGiYQNSyn9REJUePEfgvha1y5tJySC80Mff5I2dr0Bo6FDVdnuT0E&s=10",
+    "ingredients": [
+      "400 g de calabaza pelada",
+      "2 zanahorias",
+      "1/2 cebolla",
+      "600 ml de caldo de verduras",
+      "1 cucharada de aceite de oliva",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Corta la calabaza, las zanahorias y la cebolla en trozos.",
+      "Sofríe la cebolla con el aceite durante 3 minutos.",
+      "Añade la calabaza, las zanahorias y el caldo. Cocina a fuego medio durante 25 minutos.",
+      "Tritura hasta obtener una crema lisa y condimenta al gusto."
+    ],
+    "updatedAt": "2026-10-25T13:11:52.253Z"
+  },
+  {
+    "id": "receta-tacos-pollo-vegetales",
+    "title": "Tacos de pollo y vegetales",
+    "description": "Tacos coloridos de pollo salteado con pimientos y cebolla.",
+    "category": "Cena",
+    "prepMinutes": 25,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdLRjdjaggpoYbqWGEy1iOXje6YCmd_iTB16DVXdg6XTEEcyNz28Yl9E&s=10",
+    "ingredients": [
+      "250 g de pechuga de pollo en tiras",
+      "4 tortillas de maíz o trigo",
+      "1/2 pimiento rojo en tiras",
+      "1/2 pimiento verde en tiras",
+      "1/2 cebolla en tiras",
+      "1 cucharada de aceite de oliva",
+      "1/2 cucharadita de comino",
+      "Zumo de 1/2 lima",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Calienta el aceite en una sartén y cocina el pollo con el comino, la sal y la pimienta hasta que esté bien cocido.",
+      "Añade los pimientos y la cebolla y saltea hasta que estén tiernos.",
+      "Calienta las tortillas y rellénalas con la mezcla de pollo y vegetales.",
+      "Termina con zumo de lima y sirve."
+    ],
+    "updatedAt": "2026-10-25T13:17:32.757Z"
+  },
+  {
+    "id": "receta-tortilla-calabacin-cebolla",
+    "title": "Tortilla de calabacín y cebolla",
+    "description": "Una tortilla dorada y jugosa con calabacín y cebolla tiernos.",
+    "category": "Cena",
+    "prepMinutes": 30,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm3ABo_rBxzE5GwAER221Om6bowEag83uf0RiluhOT5A&s=10",
+    "ingredients": [
+      "1 calabacín mediano",
+      "1/2 cebolla",
+      "4 huevos",
+      "2 cucharadas de aceite de oliva",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Corta el calabacín y la cebolla en rodajas finas.",
+      "Cocínalos en una sartén con una cucharada de aceite hasta que estén tiernos.",
+      "Bate los huevos, condimenta y mezcla con las verduras.",
+      "Vierte la mezcla en la sartén con el aceite restante y cocina a fuego bajo; da la vuelta con ayuda de un plato y termina de cuajar."
+    ],
+    "updatedAt": "2026-10-25T13:18:12.383Z"
+  },
+  {
+    "id": "receta-merluza-limon-esparragos",
+    "title": "Filete de merluza al limón con espárragos",
+    "description": "Merluza ligera al limón servida con espárragos verdes.",
+    "category": "Cena",
+    "prepMinutes": 25,
+    "imageUrl": "https://diabetesfoodhub.org/sites/foodhub/files/styles/recipe_hero_banner_720w/public/RecId_633_buttery%20lemon%20grilled%20fish%20on%20asparagus_4IngredientCookbook_022518.jpg?h=5ed6c3d3&itok=FlEdEf86",
+    "ingredients": [
+      "2 filetes de merluza",
+      "200 g de espárragos verdes",
+      "1 limón",
+      "1 cucharada de aceite de oliva",
+      "1 diente de ajo picado",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Lava los espárragos, retira la parte dura y saltéalos con la mitad del aceite durante 6 a 8 minutos.",
+      "Condimenta la merluza y cocínala en otra sartén con el aceite restante y el ajo, 3 a 4 minutos por lado.",
+      "Añade zumo de limón sobre el pescado y sirve con los espárragos."
+    ],
+    "updatedAt": "2026-10-25T13:25:52.717Z"
+  },
+  {
+    "id": "receta-mousse-chocolate-aguacate",
+    "title": "Mousse de chocolate y aguacate",
+    "description": "Un postre cremoso de chocolate con aguacate maduro.",
+    "category": "Postres",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRENIwLz-ejZXv_JChOpvobgval9vM93dHG5V_HquMvV08W-VtymoRfTWzl&s=10",
+    "ingredients": [
+      "1 aguacate maduro",
+      "2 cucharadas de cacao puro",
+      "2 cucharadas de miel o sirope",
+      "3 cucharadas de leche",
+      "1/2 cucharadita de esencia de vainilla"
+    ],
+    "steps": [
+      "Tritura la pulpa del aguacate con el cacao, la miel, la leche y la vainilla.",
+      "Prueba y ajusta el dulzor o la consistencia con un poco más de miel o leche.",
+      "Reparte en vasos y refrigera al menos 30 minutos antes de servir."
+    ],
+    "updatedAt": "2026-10-25T13:26:47.426Z"
+  },
+  {
+    "id": "receta-manzanas-asadas-canela-nueces",
+    "title": "Manzanas asadas con canela y nueces",
+    "description": "Manzanas tiernas al horno con canela y nueces crujientes.",
+    "category": "Postres",
+    "prepMinutes": 40,
+    "imageUrl": "https://www.trevijano.com/wp-content/uploads/ManzanaAsadaWeb-1024x680.jpg",
+    "ingredients": [
+      "2 manzanas",
+      "2 cucharadas de nueces picadas",
+      "1 cucharadita de canela",
+      "1 cucharadita de miel",
+      "2 cucharadas de agua"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y coloca las manzanas en una fuente.",
+      "Retira el corazón sin atravesar completamente la base y rellena con las nueces, la canela y la miel.",
+      "Vierte el agua en la fuente y hornea de 25 a 30 minutos, hasta que las manzanas estén tiernas."
+    ],
+    "updatedAt": "2026-10-25T13:31:49.725Z"
+  },
+  {
+    "id": "receta-yogur-chocolate-amargo-almendras",
+    "title": "Yogur con chocolate amargo y almendras",
+    "description": "Un postre sencillo de yogur cremoso, chocolate y almendras.",
+    "category": "Postres",
+    "prepMinutes": 5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKV9U0zelA4Tnz8eZ1wL1ByQGEIeeXwCsRhMaleNMCGEl5OGVTVm2wnbWm&s=10",
+    "ingredients": [
+      "1 taza de yogur natural",
+      "20 g de chocolate amargo",
+      "1 cucharada de almendras picadas",
+      "1 cucharadita de miel (opcional)"
+    ],
+    "steps": [
+      "Sirve el yogur en un cuenco y añade la miel si deseas más dulzor.",
+      "Pica o ralla el chocolate y distribúyelo sobre el yogur.",
+      "Añade las almendras y sirve."
+    ],
+    "updatedAt": "2026-10-25T13:32:44.837Z"
+  },
+  {
+    "id": "receta-brochetas-frutas-temporada",
+    "title": "Brochetas de frutas de temporada",
+    "description": "Una forma fresca y colorida de disfrutar la fruta de temporada.",
+    "category": "Postres",
+    "prepMinutes": 15,
+    "imageUrl": "https://comedelahuerta.com/wp-content/uploads/2021/03/reteca-brocheta-pinchos-de-frutas-de-temporada-1.jpg",
+    "ingredients": [
+      "1 taza de fresas",
+      "1 kiwi",
+      "1/2 plátano",
+      "1/2 taza de uvas",
+      "1 cucharadita de zumo de limón"
+    ],
+    "steps": [
+      "Lava las frutas y pela el kiwi y el plátano.",
+      "Corta las frutas en trozos del mismo tamaño y rocía el plátano con zumo de limón.",
+      "Ensarta los trozos alternando las frutas en brochetas y sirve frescas."
+    ],
+    "updatedAt": "2026-10-25T13:34:42.454Z"
+  },
+  {
+    "id": "receta-hummus-bastones-verduras",
+    "title": "Hummus con bastones de verduras",
+    "description": "Hummus casero acompañado de bastones crujientes de vegetales.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQke1g6au9z-qJWgn1OfSJshIuMADIqBKrKlvvlWTnueDDg2Vd74CY2iZU&s=10",
+    "ingredients": [
+      "1 taza de garbanzos cocidos y escurridos",
+      "1 cucharada de tahini",
+      "1 cucharada de zumo de limón",
+      "1 cucharada de aceite de oliva",
+      "2 cucharadas de agua",
+      "1 zanahoria",
+      "1/2 pepino",
+      "1 pimiento",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Tritura los garbanzos con el tahini, el limón, el aceite, el agua y la sal hasta obtener una crema.",
+      "Añade un poco más de agua si hace falta para ajustar la textura.",
+      "Corta la zanahoria, el pepino y el pimiento en bastones y sírvelos con el hummus."
+    ],
+    "updatedAt": "2026-10-25T13:36:35.652Z"
+  },
+  {
+    "id": "receta-frutos-secos-chocolate-negro",
+    "title": "Frutos secos y chocolate negro",
+    "description": "Una mezcla sencilla de frutos secos y chocolate negro para picar.",
+    "category": "Snacks",
+    "prepMinutes": 5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4jzNFKfFxYJFbZtjPWwftfenEYspEUbKHlSHGuakMnNnux6_tqQG0AH6&s=10",
+    "ingredients": [
+      "1/4 taza de almendras",
+      "1/4 taza de nueces",
+      "20 g de chocolate negro"
+    ],
+    "steps": [
+      "Trocea el chocolate negro en piezas pequeñas.",
+      "Mezcla el chocolate con las almendras y las nueces.",
+      "Reparte en porciones y sirve."
+    ],
+    "updatedAt": "2026-10-25T20:00:36.556Z"
+  },
+  {
+    "id": "receta-tortitas-arroz-requeson-fresas",
+    "title": "Tortitas de arroz con requesón y fresas",
+    "description": "Tortitas de arroz crujientes con requesón suave y fresas frescas.",
+    "category": "Snacks",
+    "prepMinutes": 10,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_D0sk3enMg0yAzy3qZaj80kOQgCrz8IdlAMgcPxq-2CS0SMPRPwm0S24&s=10",
+    "ingredients": [
+      "4 tortitas de arroz",
+      "1/2 taza de requesón",
+      "1/2 taza de fresas",
+      "1 cucharadita de miel (opcional)"
+    ],
+    "steps": [
+      "Lava y corta las fresas en láminas.",
+      "Unta el requesón sobre las tortitas de arroz.",
+      "Añade las fresas y, si lo deseas, un hilo de miel."
+    ],
+    "updatedAt": "2026-10-25T20:01:17.751Z"
+  },
+  {
+    "id": "receta-edamames-vapor",
+    "title": "Edamames al vapor",
+    "description": "Un snack rápido de edamames tiernos con un toque de sal.",
+    "category": "Snacks",
+    "prepMinutes": 10,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnoH6d4S4Hpv1M0DNmgagM1NnbYX-DQB2_iaDGa6q24PTL78_dpIYv7ZA&s=10",
+    "ingredients": [
+      "250 g de edamames en vaina",
+      "1/2 cucharadita de sal gruesa"
+    ],
+    "steps": [
+      "Cocina los edamames al vapor durante 5 a 7 minutos, hasta que estén tiernos.",
+      "Escúrrelos y espolvorea con sal gruesa.",
+      "Sirve calientes o a temperatura ambiente; retira las semillas de las vainas al comer."
+    ],
+    "updatedAt": "2026-10-25T20:02:19.301Z"
+  },
+  {
+    "id": "receta-huevos-revueltos-tomate-cebollita",
+    "title": "Huevos revueltos con tomate y cebollita",
+    "description": "Huevos suaves con tomate fresco y cebollita para un desayuno sencillo.",
+    "category": "Desayuno",
+    "prepMinutes": 15,
+    "imageUrl": "https://i.pinimg.com/736x/5a/b3/c2/5ab3c2a69cb0b1f70a333e60ce4a7072.jpg",
+    "ingredients": [
+      "3 huevos",
+      "1 tomate pequeño",
+      "2 cebollitas de verdeo",
+      "1 cucharadita de aceite",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Bate los huevos con sal y pimienta; corta el tomate en cubos y la cebollita en rodajas.",
+      "Saltea el tomate y la parte blanca de la cebollita con el aceite durante 2 minutos.",
+      "Agrega los huevos y revuelve a fuego bajo hasta que estén cocidos; termina con la parte verde."
+    ],
+    "updatedAt": "2026-10-25T20:35:52.398Z"
+  },
+  {
+    "id": "receta-pan-tomate-queso-albahaca",
+    "title": "Pan con tomate, queso y albahaca",
+    "description": "Rebanadas tibias con tomate jugoso, queso fundido y albahaca fresca.",
+    "category": "Desayuno",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnP83706V9EPUOCZXTJKTer4E2mfjGGcKuHU2sYL_FHNX8TD5jW5-Oe3Ck&s=10",
+    "ingredients": [
+      "2 rebanadas de pan de campo",
+      "1 tomate",
+      "2 fetas de queso",
+      "4 hojas de albahaca",
+      "1 cucharadita de aceite de oliva"
+    ],
+    "steps": [
+      "Tuesta ligeramente el pan y coloca encima el tomate en rodajas.",
+      "Añade el queso y lleva al horno o a una sartén tapada hasta que se funda.",
+      "Termina con albahaca y unas gotas de aceite de oliva."
+    ],
+    "updatedAt": "2026-10-25T20:35:12.935Z"
+  },
+  {
+    "id": "receta-omelette-espinaca-queso",
+    "title": "Omelette de espinaca y queso",
+    "description": "Una opción sencilla y sabrosa con verduras frescas.",
+    "category": "Desayuno",
+    "prepMinutes": 15,
+    "imageUrl": "https://www.clarin.com/img/2018/01/16/ryx3GhiNz_1256x620__2.jpg",
+    "ingredients": [
+      "2 huevos",
+      "1 taza de espinaca",
+      "2 cucharadas de queso rallado",
+      "1 cucharadita de aceite",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Bate los huevos con sal y pimienta.",
+      "Saltea la espinaca con el aceite hasta que se ablande.",
+      "Vierte los huevos, agrega el queso y cocina; dobla el omelette cuando esté firme."
+    ],
+    "updatedAt": "2026-10-25T20:34:40.124Z"
+  },
+  {
+    "id": "receta-yogur-granola-banana",
+    "title": "Yogur con granola y banana",
+    "description": "Un desayuno rápido con fruta, yogur y granola crocante.",
+    "category": "Desayuno",
+    "prepMinutes": 5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFpKMmP-aUZfh8FrjUGMO7ebTQzQW1lHGezh9vTTUee7vFHMQkgU0J40&s=10",
+    "ingredients": [
+      "1 taza de yogur natural",
+      "1 banana",
+      "1/3 taza de granola",
+      "1 cucharadita de miel"
+    ],
+    "steps": [
+      "Coloca el yogur en un tazón.",
+      "Corta la banana en rodajas y distribúyela encima.",
+      "Añade la granola y la miel justo antes de servir."
+    ],
+    "updatedAt": "2026-10-25T20:34:00.725Z"
+  },
+  {
+    "id": "receta-muffins-zanahoria",
+    "title": "Muffins de zanahoria",
+    "description": "Muffins suaves con zanahoria rallada y un toque de canela.",
+    "category": "Desayuno",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF4-gAvS0TUd9F1KcxscNqDaS5iEibuICMEM-jnpZDtiLlTeK1-ke1wB4&s=10",
+    "ingredients": [
+      "1 taza de harina",
+      "1 zanahoria rallada",
+      "1 huevo",
+      "1/3 taza de azúcar",
+      "1/4 taza de aceite",
+      "1/2 cucharadita de canela"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y prepara moldes para muffins.",
+      "Mezcla el huevo, el azúcar y el aceite; incorpora la zanahoria.",
+      "Agrega la harina y la canela, reparte en los moldes y hornea de 20 a 25 minutos."
+    ],
+    "updatedAt": "2026-10-25T20:33:28.640Z"
+  },
+  {
+    "id": "receta-licuado-frutilla-avena",
+    "title": "Licuado de frutilla y avena",
+    "description": "Una bebida cremosa y frutal para acompañar el desayuno.",
+    "category": "Desayuno",
+    "prepMinutes": 5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3IR3oxxx8UOWNNCvFtxbvRsvC8cGVEHHj1GzZrF5BQ6xEjHXeuDPCm98&s=10",
+    "ingredients": [
+      "1 taza de frutillas",
+      "1 taza de leche",
+      "2 cucharadas de avena",
+      "1/2 banana",
+      "Hielo al gusto"
+    ],
+    "steps": [
+      "Lava y retira las hojas de las frutillas.",
+      "Licúa las frutillas con la leche, la avena y la banana.",
+      "Agrega hielo si deseas y sirve enseguida."
+    ],
+    "updatedAt": "2026-10-25T20:31:07.185Z"
+  },
+  {
+    "id": "receta-ensalada-lentejas",
+    "title": "Ensalada de lentejas y verduras",
+    "description": "Una ensalada nutritiva con lentejas, tomate y hierbas frescas.",
+    "category": "Almuerzo",
+    "prepMinutes": 25,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLk9rg2EdFgtKWHTpi6TjAJM0Oz7zsxI5_X97Lfi-rHtjoHJVA_PSsm6Y&s=10",
+    "ingredients": [
+      "2 tazas de lentejas cocidas",
+      "1 tomate",
+      "1/2 pepino",
+      "1/4 cebolla morada",
+      "2 cucharadas de perejil",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharada de jugo de limón"
+    ],
+    "steps": [
+      "Corta el tomate, el pepino y la cebolla en cubos pequeños.",
+      "Mezcla las verduras con las lentejas y el perejil.",
+      "Aliña con aceite, limón y sal; sirve fría o a temperatura ambiente."
+    ],
+    "updatedAt": "2026-10-25T20:41:06.434Z"
+  },
+  {
+    "id": "receta-cuscus-verduras-asadas",
+    "title": "Cuscús con verduras asadas",
+    "description": "Cuscús esponjoso acompañado de verduras doradas y hierbas.",
+    "category": "Almuerzo",
+    "prepMinutes": 40,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-I8_h9iSdh3cX3xEpSA986RWJioL8NoFXrZ5v4GM6-TZGa2HH7EpK2w&s=10",
+    "ingredients": [
+      "1 taza de cuscús",
+      "1 zucchini",
+      "1 morrón",
+      "1 cebolla morada",
+      "1 taza de caldo caliente",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharada de perejil picado"
+    ],
+    "steps": [
+      "Corta el zucchini, el morrón y la cebolla en trozos; mezcla con una cucharada de aceite y ásalos a 200 °C durante 20 minutos.",
+      "Vierte el caldo caliente sobre el cuscús, tapa y deja reposar 5 minutos; luego suéltalo con un tenedor.",
+      "Mezcla el cuscús con las verduras asadas, el perejil y el aceite restante."
+    ],
+    "updatedAt": "2026-10-25T20:39:03.058Z"
+  },
+  {
+    "id": "receta-tarta-acelga",
+    "title": "Tarta de acelga y ricota",
+    "description": "Una tarta liviana de verduras con relleno cremoso.",
+    "category": "Almuerzo",
+    "prepMinutes": 50,
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdxbsmkQUIauYLkYdYwXmNVE9VRG0CwgNVPUCkgu7R6OJKb7yaVHTxZRNQ64DuOTg0u2BlfyeVbZxJjPU1c8vt-aXWEP3i4zIrlQWeMOXxuHooV11a72y1x66VzLSJ-ILj9WxkFhePVon_/s16000/tarta-ricota-acelga.JPG",
+    "ingredients": [
+      "1 tapa de masa para tarta",
+      "1 atado de acelga",
+      "200 g de ricota",
+      "2 huevos",
+      "1/2 cebolla",
+      "2 cucharadas de queso rallado"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y blanquea la acelga; escúrrela y pícala.",
+      "Sofríe la cebolla y mézclala con la acelga, la ricota, los huevos y el queso.",
+      "Rellena la masa y hornea de 30 a 35 minutos, hasta que esté dorada."
+    ],
+    "updatedAt": "2026-10-25T20:40:21.275Z"
+  },
+  {
+    "id": "receta-guiso-garbanzos-espinaca",
+    "title": "Guiso de garbanzos y espinaca",
+    "description": "Un guiso reconfortante de legumbres con tomate y espinaca.",
+    "category": "Almuerzo",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu015WR0XLSLOY5-td57hOy5qTf7w9PO-NZLw6WSTqxgwWQpEcrViCMek&s=10",
+    "ingredients": [
+      "2 tazas de garbanzos cocidos",
+      "2 tazas de espinaca",
+      "1 taza de tomate triturado",
+      "1/2 cebolla",
+      "1 diente de ajo",
+      "1 taza de caldo",
+      "1 cucharadita de pimentón"
+    ],
+    "steps": [
+      "Sofríe la cebolla y el ajo picados en una olla.",
+      "Añade el tomate, el pimentón, los garbanzos y el caldo; cocina 20 minutos.",
+      "Incorpora la espinaca y cocina unos minutos más hasta que se ablande."
+    ],
+    "updatedAt": "2026-10-25T20:39:44.223Z"
+  },
+  {
+    "id": "receta-pastel-papa-carne",
+    "title": "Pastel de papa y carne",
+    "description": "Capas de puré suave y carne sazonada horneadas hasta dorar.",
+    "category": "Almuerzo",
+    "prepMinutes": 55,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7zjNry5zFefpl660EFFBhb99O6ZhlKgkbYr7UnV594tqGQPdVfzSDPU&s=10",
+    "ingredients": [
+      "500 g de papas",
+      "300 g de carne molida",
+      "1/2 cebolla",
+      "1/2 taza de leche",
+      "1 cucharada de manteca",
+      "1 huevo",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Hierve las papas hasta que estén tiernas y haz un puré con leche y manteca.",
+      "Sofríe la cebolla, agrega la carne y cocina hasta que esté bien hecha.",
+      "Coloca la carne en una fuente, cubre con puré y huevo batido; hornea a 200 °C hasta dorar."
+    ],
+    "updatedAt": "2026-10-25T20:38:17.972Z"
+  },
+  {
+    "id": "receta-sopa-locro-verduras",
+    "title": "Locro de verduras",
+    "description": "Una sopa espesa de maíz y vegetales para un almuerzo abundante.",
+    "category": "Almuerzo",
+    "prepMinutes": 60,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJM-B3z82z1t-5s2YKYFgi87T7-xziAlIZts7FJujO-1sqAW9p2dXcNKk&s=10",
+    "ingredients": [
+      "1 taza de maíz blanco remojado",
+      "1 zanahoria",
+      "1 batata",
+      "1/2 cebolla",
+      "1/2 zapallo",
+      "1 litro de caldo",
+      "1 cucharada de aceite"
+    ],
+    "steps": [
+      "Escurre el maíz remojado y cocínalo en el caldo hasta que empiece a ablandarse.",
+      "Agrega la cebolla, la zanahoria, la batata y el zapallo en cubos.",
+      "Cocina a fuego bajo hasta que el maíz y las verduras estén tiernos; ajusta la sal."
+    ],
+    "updatedAt": "2026-10-26T21:07:31.275Z"
+  },
+  {
+    "id": "receta-bowl-arroz-porotos",
+    "title": "Bowl de arroz y porotos negros",
+    "description": "Un almuerzo colorido con arroz, porotos y salsa fresca.",
+    "category": "Almuerzo",
+    "prepMinutes": 30,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRh21t0PI-aRNMZ66IO2gYEhsLOdQQzFps-bSZp0mXL1PmirGigNVVt8H&s=10",
+    "ingredients": [
+      "1 taza de arroz cocido",
+      "1 taza de porotos negros cocidos",
+      "1 tomate",
+      "1/2 palta",
+      "1/4 taza de choclo",
+      "1 cucharada de jugo de limón"
+    ],
+    "steps": [
+      "Calienta los porotos y el arroz por separado.",
+      "Corta el tomate y la palta en cubos.",
+      "Sirve todo en un bowl con el choclo y termina con jugo de limón."
+    ],
+    "updatedAt": "2026-10-25T20:36:44.776Z"
+  },
+  {
+    "id": "receta-pollo-limon-papas",
+    "title": "Pollo al limón con papas",
+    "description": "Pollo jugoso al horno con papas doradas y hierbas.",
+    "category": "Cena",
+    "prepMinutes": 55,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4w6vqDs1V03lvSFGFtQtmTiu0UI1coVF-B9nHBNzZzIqYcLeqUvNHaXBh&s=10",
+    "ingredients": [
+      "4 muslos de pollo",
+      "4 papas pequeñas",
+      "1 limón",
+      "2 cucharadas de aceite",
+      "1 cucharadita de orégano",
+      "2 dientes de ajo",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C y corta las papas en gajos.",
+      "Mezcla el aceite, el jugo de limón, el ajo, el orégano, la sal y la pimienta; cubre el pollo y las papas.",
+      "Hornea de 40 a 45 minutos, volteando las papas a mitad de cocción, hasta que el pollo esté bien cocido."
+    ],
+    "updatedAt": "2026-10-25T20:49:10.228Z"
+  },
+  {
+    "id": "receta-pasta-pesto-brocoli",
+    "title": "Pasta al pesto con brócoli",
+    "description": "Pasta con pesto aromático y brócoli tierno en una sola comida.",
+    "category": "Cena",
+    "prepMinutes": 25,
+    "imageUrl": "https://okdiario.com/img/2019/06/19/como-hacer-pesto-de-brocoli-1-620x349.jpg",
+    "ingredients": [
+      "250 g de pasta",
+      "1 taza de brócoli",
+      "1/3 taza de albahaca",
+      "2 cucharadas de queso rallado",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharada de nueces",
+      "1 diente de ajo"
+    ],
+    "steps": [
+      "Hierve la pasta y agrega el brócoli durante los últimos 4 minutos de cocción.",
+      "Procesa la albahaca con el queso, el aceite, las nueces y el ajo.",
+      "Escurre la pasta y el brócoli, mezcla con el pesto y sirve."
+    ],
+    "updatedAt": "2026-10-25T20:48:34.259Z"
+  },
+  {
+    "id": "receta-ensalada-tibia-calabaza-queso",
+    "title": "Ensalada tibia de calabaza y queso",
+    "description": "Calabaza asada con hojas verdes, queso y semillas crocantes.",
+    "category": "Cena",
+    "prepMinutes": 30,
+    "imageUrl": "https://montesesma.com/wp-content/uploads/2024/10/IMG_9803-esta-pequena-1024x768-Copiar.webp",
+    "ingredients": [
+      "500 g de calabaza",
+      "2 tazas de rúcula",
+      "100 g de queso de cabra",
+      "2 cucharadas de semillas de girasol",
+      "1 cucharada de aceite de oliva",
+      "1 cucharadita de vinagre balsámico"
+    ],
+    "steps": [
+      "Corta la calabaza en cubos, mézclala con aceite y ásala a 200 °C durante 25 minutos.",
+      "Coloca la rúcula en una fuente y añade la calabaza tibia y el queso desmenuzado.",
+      "Termina con las semillas y el vinagre balsámico."
+    ],
+    "updatedAt": "2026-10-25T20:46:33.201Z"
+  },
+  {
+    "id": "receta-berenjenas-rellenas",
+    "title": "Berenjenas rellenas de quinoa",
+    "description": "Berenjenas al horno con quinoa, verduras y queso gratinado.",
+    "category": "Cena",
+    "prepMinutes": 50,
+    "imageUrl": "https://nemesiscuerpoymente.com/wp-content/uploads/2019/03/berenjenas.jpg",
+    "ingredients": [
+      "2 berenjenas",
+      "1/2 taza de quinoa",
+      "1 tomate",
+      "1/2 cebolla",
+      "1/3 taza de queso rallado",
+      "1 cucharada de aceite"
+    ],
+    "steps": [
+      "Corta las berenjenas por la mitad y hornéalas a 200 °C durante 20 minutos.",
+      "Cocina la quinoa; saltea la cebolla y el tomate, y mezcla con la quinoa.",
+      "Retira parte de la pulpa, mézclala con el relleno, rellena las berenjenas y gratina con queso."
+    ],
+    "updatedAt": "2026-10-25T20:45:49.727Z"
+  },
+  {
+    "id": "receta-noquis-calabaza-salvia",
+    "title": "Ñoquis de calabaza con salvia",
+    "description": "Ñoquis tiernos de calabaza con manteca aromatizada con salvia.",
+    "category": "Cena",
+    "prepMinutes": 30,
+    "imageUrl": "https://comedelahuerta.com/wp-content/uploads/2026/09/64076939-fb85-4ea2-9473-8531d44aaaab.png",
+    "ingredients": [
+      "500 g de puré de calabaza bien escurrido",
+      "1 huevo",
+      "2 tazas de harina",
+      "1/4 cucharadita de nuez moscada",
+      "40 g de manteca",
+      "8 hojas de salvia",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Mezcla el puré frío con el huevo, la sal y la nuez moscada; incorpora la harina poco a poco hasta formar una masa suave.",
+      "Forma tiras, corta los ñoquis y cocínalos en agua hirviendo con sal hasta que suban a la superficie.",
+      "Derrite la manteca con la salvia y mezcla allí los ñoquis escurridos antes de servir."
+    ],
+    "updatedAt": "2026-10-25T20:44:07.801Z"
+  },
+  {
+    "id": "receta-salteado-tofu-verduras",
+    "title": "Salteado de tofu y verduras",
+    "description": "Tofu dorado con verduras crocantes y salsa de soja.",
+    "category": "Cena",
+    "prepMinutes": 25,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy_EaIz1PLAhuHQ_-QVAQ-BDpvxW3g8R54_gviDwcceX_AQP3fv3w5IgM&s=10",
+    "ingredients": [
+      "200 g de tofu firme",
+      "1 zanahoria",
+      "1 morrón",
+      "1 taza de brócoli",
+      "2 cucharadas de salsa de soja",
+      "1 cucharada de aceite",
+      "1 cucharadita de jengibre rallado"
+    ],
+    "steps": [
+      "Seca el tofu, córtalo en cubos y dóralo en una sartén con aceite.",
+      "Añade la zanahoria, el morrón y el brócoli; saltea hasta que estén tiernos pero firmes.",
+      "Agrega la salsa de soja y el jengibre, mezcla y sirve caliente."
+    ],
+    "updatedAt": "2026-10-25T20:43:21.269Z"
+  },
+  {
+    "id": "receta-frittata-champinones",
+    "title": "Frittata de champiñones",
+    "description": "Una cena rápida de huevos, champiñones y queso.",
+    "category": "Cena",
+    "prepMinutes": 25,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp4IQkeVNxYNmq1_bA6h2CyMPy7YPhuD7NmSQCuy3LQuQYcKtJpYzK5rw&s=10",
+    "ingredients": [
+      "4 huevos",
+      "150 g de champiñones",
+      "1/4 cebolla",
+      "1/3 taza de queso rallado",
+      "1 cucharadita de aceite",
+      "Perejil, sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Saltea la cebolla y los champiñones en una sartén apta para horno.",
+      "Bate los huevos con el queso, el perejil, la sal y la pimienta; vierte sobre los champiñones.",
+      "Cocina a fuego bajo hasta que los bordes cuajen y termina bajo el grill hasta dorar."
+    ],
+    "updatedAt": "2026-10-25T20:41:53.385Z"
+  },
+  {
+    "id": "receta-budin-banana-nueces",
+    "title": "Budín de banana y nueces",
+    "description": "Un budín húmedo y perfumado, perfecto para la merienda.",
+    "category": "Postres",
+    "prepMinutes": 55,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoytjt07Mgw_DFAV6NXQU2MBhdeDsl34eUHRS5_oXNMPL4K3-P1TcV_4&s=10",
+    "ingredients": [
+      "3 bananas maduras",
+      "2 tazas de harina",
+      "2 huevos",
+      "1/2 taza de azúcar",
+      "1/3 taza de aceite",
+      "1/2 taza de nueces picadas",
+      "1 cucharadita de polvo de hornear"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y aceita un molde para budín.",
+      "Pisa las bananas y mezcla con los huevos, el azúcar y el aceite.",
+      "Incorpora la harina, el polvo de hornear y las nueces; hornea de 40 a 45 minutos."
+    ],
+    "updatedAt": "2026-10-25T20:57:58.224Z"
+  },
+  {
+    "id": "receta-tarta-coco-dulce-leche",
+    "title": "Tarta de coco y dulce de leche",
+    "description": "Una tarta fácil con base crocante y cubierta de coco dorado.",
+    "category": "Postres",
+    "prepMinutes": 60,
+    "imageUrl": "https://www.encasacookingspace.com/wp-content/uploads/2019/04/Tarta-de-coco-y-dulce-de-leche-1.jpg",
+    "ingredients": [
+      "1 tapa de masa para tarta",
+      "200 g de dulce de leche",
+      "1 taza de coco rallado",
+      "1 huevo",
+      "1/3 taza de azúcar",
+      "2 cucharadas de leche"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C, coloca la masa en una tartera y pincha la base con un tenedor.",
+      "Extiende el dulce de leche sobre la masa.",
+      "Mezcla el coco con el huevo, el azúcar y la leche; distribuye encima y hornea de 25 a 30 minutos."
+    ],
+    "updatedAt": "2026-10-25T20:57:17.826Z"
+  },
+  {
+    "id": "receta-trufas-cacao-datiles",
+    "title": "Trufas de cacao y dátiles",
+    "description": "Bocaditos dulces sin horno con cacao, dátiles y frutos secos.",
+    "category": "Postres",
+    "prepMinutes": 20,
+    "imageUrl": "https://medify.clinic/wp-content/uploads/Trufas-de-Avena-Datiles-y-Cacao.webp",
+    "ingredients": [
+      "1 taza de dátiles sin carozo",
+      "1/2 taza de avena",
+      "2 cucharadas de cacao amargo",
+      "1/4 taza de almendras",
+      "1 cucharada de agua"
+    ],
+    "steps": [
+      "Procesa los dátiles con la avena, el cacao y las almendras.",
+      "Agrega el agua de a poco hasta obtener una masa que se pueda moldear.",
+      "Forma bolitas y refrigera durante 20 minutos antes de servir."
+    ],
+    "updatedAt": "2026-10-25T20:56:05.853Z"
+  },
+  {
+    "id": "receta-peras-vino-especias",
+    "title": "Peras al vino y especias",
+    "description": "Peras tiernas cocidas lentamente con canela y clavo.",
+    "category": "Postres",
+    "prepMinutes": 45,
+    "imageUrl": "https://es.cravingsjournal.com/wp-content/uploads/2019/07/peras-al-vino-tinto-7.jpg",
+    "ingredients": [
+      "4 peras firmes",
+      "2 tazas de vino tinto",
+      "1/3 taza de azúcar",
+      "1 rama de canela",
+      "2 clavos de olor",
+      "1 tira de cáscara de naranja"
+    ],
+    "steps": [
+      "Pela las peras dejando los tallos y colócalas en una olla.",
+      "Añade el vino, el azúcar, la canela, los clavos y la cáscara de naranja.",
+      "Cocina tapado a fuego bajo de 30 a 35 minutos, girando las peras; reduce el líquido y sirve."
+    ],
+    "updatedAt": "2026-10-25T20:54:45.482Z"
+  },
+  {
+    "id": "receta-cheesecake-limon-vasitos",
+    "title": "Cheesecake de limón en vasitos",
+    "description": "Un postre fresco y cremoso servido en porciones individuales.",
+    "category": "Postres",
+    "prepMinutes": 25,
+    "imageUrl": "https://marialunarillos.com/blog/wp-content/uploads/2017/05/receta-tarros-cheesecake-limon-1.jpg",
+    "ingredients": [
+      "150 g de galletitas",
+      "200 g de queso crema",
+      "1/2 taza de yogur natural",
+      "3 cucharadas de azúcar",
+      "1 limón",
+      "2 cucharadas de manteca derretida"
+    ],
+    "steps": [
+      "Tritura las galletitas y mézclalas con la manteca; reparte en el fondo de los vasitos.",
+      "Bate el queso crema con el yogur, el azúcar, la ralladura y el jugo de limón.",
+      "Distribuye la crema sobre la base y refrigera al menos 2 horas."
+    ],
+    "updatedAt": "2026-10-25T20:54:02.118Z"
+  },
+  {
+    "id": "receta-peras-ricota-nueces",
+    "title": "Peras rellenas de ricota y nueces",
+    "description": "Peras horneadas con un relleno suave y crocante.",
+    "category": "Postres",
+    "prepMinutes": 50,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROa7O_Pt9l6RxcUEihMGglhdFUShbFKbdowKR2uEFoDj81VEkKJtY6mW_h&s=10",
+    "ingredients": [
+      "2 peras firmes",
+      "100 g de ricota",
+      "2 cucharadas de nueces picadas",
+      "1 cucharada de miel",
+      "1/2 cucharadita de canela"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C, corta las peras por la mitad y retira las semillas.",
+      "Mezcla la ricota con las nueces, la miel y la canela; rellena el centro de cada pera.",
+      "Coloca en una fuente con un poco de agua y hornea de 25 a 30 minutos, hasta que estén tiernas."
+    ],
+    "updatedAt": "2026-10-25T20:51:53.364Z"
+  },
+  {
+    "id": "receta-copas-mango-yogur",
+    "title": "Copas de mango y yogur",
+    "description": "Capas de mango fresco y yogur para un postre ligero.",
+    "category": "Postres",
+    "prepMinutes": 10,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvA5_gXINTLUKHnY0_akEJwbxTh4o8s3l6zJ5YlaQEJK3DpO--Nl1o8G4&s=10",
+    "ingredients": [
+      "2 mangos maduros",
+      "1 taza de yogur natural",
+      "2 cucharadas de miel",
+      "1/4 taza de coco rallado"
+    ],
+    "steps": [
+      "Pela los mangos y corta la pulpa en cubos.",
+      "Mezcla el yogur con la miel.",
+      "Alterna capas de mango y yogur en copas y termina con coco rallado."
+    ],
+    "updatedAt": "2026-10-25T20:50:46.723Z"
+  },
+  {
+    "id": "receta-galletitas-avena-pasas",
+    "title": "Galletitas de avena y pasas",
+    "description": "Galletitas caseras crocantes por fuera y tiernas por dentro.",
+    "category": "Postres",
+    "prepMinutes": 30,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPwJsPa22TSmbRdNNjHj1XhkRO33NgUDFAt6DumvBCqqYyRQZWv1GB-zAx&s=10",
+    "ingredients": [
+      "1 taza de avena",
+      "3/4 taza de harina",
+      "1/3 taza de azúcar",
+      "1 huevo",
+      "1/3 taza de manteca blanda",
+      "1/3 taza de pasas",
+      "1/2 cucharadita de canela"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y cubre una bandeja con papel para hornear.",
+      "Mezcla la manteca con el azúcar y el huevo; incorpora la avena, la harina, la canela y las pasas.",
+      "Forma pequeñas porciones y hornea de 12 a 15 minutos, hasta que los bordes estén dorados."
+    ],
+    "updatedAt": "2026-10-25T20:50:17.654Z"
+  },
+  {
+    "id": "receta-bastones-polenta-horno",
+    "title": "Bastones de polenta al horno",
+    "description": "Bastones dorados de polenta para acompañar con una salsa.",
+    "category": "Snacks",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPK-BAe2gbC8zZkhvspV0y-HKTF9sV9hwyO45CmsIoydcapfZ5g4bYHQlm&s=10",
+    "ingredients": [
+      "1 taza de polenta instantánea",
+      "3 tazas de agua",
+      "1/3 taza de queso rallado",
+      "1 cucharada de aceite de oliva",
+      "1/2 cucharadita de orégano",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Hierve el agua con sal y agrega la polenta en forma de lluvia, revolviendo hasta que espese.",
+      "Incorpora el queso y el orégano; extiende en una fuente y deja enfriar hasta que esté firme.",
+      "Corta en bastones, pincela con aceite y hornea a 220 °C de 20 a 25 minutos, girándolos a mitad de cocción."
+    ],
+    "updatedAt": "2026-10-25T21:00:28.476Z"
+  },
+  {
+    "id": "receta-pita-aceitunas-queso",
+    "title": "Pan pita con aceitunas y queso",
+    "description": "Triángulos tibios de pan pita con queso y aceitunas.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://cdn7.kiwilimon.com/brightcove/10430/640x640/10430.jpg.webp",
+    "ingredients": [
+      "2 panes pita",
+      "1/3 taza de aceitunas negras sin carozo",
+      "80 g de queso feta",
+      "1 cucharadita de orégano",
+      "1 cucharada de aceite de oliva"
+    ],
+    "steps": [
+      "Precalienta el horno a 190 °C y corta los panes pita en triángulos.",
+      "Distribuye encima las aceitunas picadas y el queso feta desmenuzado.",
+      "Agrega orégano y aceite; hornea de 8 a 10 minutos y sirve tibio."
+    ],
+    "updatedAt": "2026-10-25T21:02:36.347Z"
+  },
+  {
+    "id": "receta-crackers-semillas-romero",
+    "title": "Crackers de semillas y romero",
+    "description": "Galletas saladas finas para acompañar quesos y dips.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcvVeNZb44sL7aa2eCpVWPSae-I6KLCO-yQIJXQXT5O6fc8dW8ssVlCVM&s=10",
+    "ingredients": [
+      "1 taza de harina",
+      "2 cucharadas de semillas de sésamo",
+      "1 cucharada de semillas de chía",
+      "1 cucharada de aceite de oliva",
+      "1/2 cucharadita de romero",
+      "1/3 taza de agua",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y mezcla la harina con las semillas, el romero y la sal.",
+      "Agrega el aceite y el agua; amasa hasta formar una masa lisa y estírala bien fina.",
+      "Corta en cuadrados y hornea de 12 a 15 minutos, hasta que estén secos y dorados."
+    ],
+    "updatedAt": "2026-10-25T21:01:20.212Z"
+  },
+  {
+    "id": "receta-chips-batata-horno",
+    "title": "Chips de batata al horno",
+    "description": "Láminas finas de batata horneadas hasta quedar crocantes.",
+    "category": "Snacks",
+    "prepMinutes": 30,
+    "imageUrl": "https://cocinandoentreolivos.com/wp-content/uploads/2014/10/Chipsdeboniatoalhornowww.cocinandoentreolivos.com2_.jpg",
+    "ingredients": [
+      "2 batatas",
+      "1 cucharada de aceite de oliva",
+      "1/2 cucharadita de pimentón",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C y corta las batatas en láminas finas.",
+      "Mezcla con el aceite, el pimentón, la sal y la pimienta.",
+      "Coloca en una sola capa y hornea de 20 a 25 minutos, volteando a mitad de cocción."
+    ],
+    "updatedAt": "2026-10-25T21:03:13.294Z"
+  },
+  {
+    "id": "receta-dip-porotos-romero",
+    "title": "Dip de porotos blancos y romero",
+    "description": "Una crema suave de legumbres con limón y romero fresco.",
+    "category": "Snacks",
+    "prepMinutes": 10,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66hFB9jWcFDALRuRI-h_G87qUuXKl7_pOL5eO-IThYvCsDZ4rmrQOij4Q&s=10",
+    "ingredients": [
+      "1 taza de porotos blancos cocidos",
+      "1 cucharada de aceite de oliva",
+      "1 cucharada de jugo de limón",
+      "1/2 diente de ajo",
+      "1/2 cucharadita de romero picado",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Coloca los porotos, el aceite, el limón, el ajo y el romero en una procesadora.",
+      "Procesa hasta obtener una crema; agrega una cucharada de agua si hace falta.",
+      "Condimenta con sal y pimienta y sirve con vegetales o pan."
+    ],
+    "updatedAt": "2026-10-25T21:04:00.579Z"
+  },
+  {
+    "id": "receta-bolitas-queso-hierbas",
+    "title": "Bolitas de queso y hierbas",
+    "description": "Bocaditos cremosos cubiertos con hierbas y semillas.",
+    "category": "Snacks",
+    "prepMinutes": 20,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST-Sajd4SqWGXybC3TmSH7dMgsjJSc9Cq6wTbkb--glyenc8NNnao92XE&s=10",
+    "ingredients": [
+      "150 g de queso crema",
+      "1/2 taza de queso rallado",
+      "2 cucharadas de perejil picado",
+      "1 cucharada de semillas de sésamo",
+      "Pimienta al gusto"
+    ],
+    "steps": [
+      "Mezcla el queso crema con el queso rallado y la pimienta.",
+      "Forma bolitas pequeñas con las manos y refrigera 10 minutos.",
+      "Pasa las bolitas por el perejil y las semillas de sésamo antes de servir."
+    ],
+    "updatedAt": "2026-10-25T21:04:35.335Z"
+  },
+  {
+    "id": "receta-manzana-mantequilla-mani",
+    "title": "Rodajas de manzana con mantequilla de maní",
+    "description": "Un snack rápido que combina fruta fresca y crema de maní.",
+    "category": "Snacks",
+    "prepMinutes": 5,
+    "imageUrl": "https://www.hortifrut.com/wp-content/uploads/2022/04/rodajaManzanaFrambuesa.jpg",
+    "ingredients": [
+      "1 manzana",
+      "2 cucharadas de mantequilla de maní",
+      "1 cucharada de granola",
+      "1 cucharadita de miel (opcional)"
+    ],
+    "steps": [
+      "Lava la manzana, retira el centro y córtala en rodajas.",
+      "Unta cada rodaja con mantequilla de maní.",
+      "Termina con granola y un hilo de miel si deseas."
+    ],
+    "updatedAt": "2026-10-25T21:06:00.887Z"
+  },
+  {
+    "id": "receta-tortilla-choclo-queso",
+    "title": "Tortilla de choclo y queso",
+    "description": "Una tortilla dorada y tierna con granos de choclo y queso.",
+    "category": "Desayuno",
+    "prepMinutes": 20,
+    "imageUrl": "https://www.abc.com.py/resizer/v2/JYVDQFLVQJCW3GTVAFFZDGCQUM.JPG?auth=e80986e4cdda70de064b64124bca467d428e40ee207552bbf245a1af1d36bf09&width=1920&smart=true",
+    "ingredients": [
+      "2 huevos",
+      "1/2 taza de choclo cocido",
+      "1/4 taza de queso Paraguay desmenuzado",
+      "1 cucharada de leche",
+      "1 cucharadita de aceite",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Bate los huevos con la leche, la sal y la pimienta.",
+      "Agrega el choclo y el queso, y mezcla.",
+      "Calienta el aceite en una sartén, vierte la mezcla y cocina a fuego bajo hasta que cuaje; dobla y sirve."
+    ],
+    "updatedAt": "2026-10-25T21:22:53.391Z"
+  },
+  {
+    "id": "receta-porridge-cacao-pera",
+    "title": "Porridge de cacao y pera",
+    "description": "Avena caliente con cacao y pera fresca para empezar el día.",
+    "category": "Desayuno",
+    "prepMinutes": 12,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRDrKlwWdf4OE65uq3PLbTIhTi3pEhVwhxrqQUMM5wf_GGrlKKsFgflZQ&s=10",
+    "ingredients": [
+      "1/2 taza de avena",
+      "1 taza de leche",
+      "1 cucharadita de cacao amargo",
+      "1 pera",
+      "1 cucharadita de miel"
+    ],
+    "steps": [
+      "Coloca la avena, la leche y el cacao en una olla pequeña.",
+      "Cocina a fuego medio, revolviendo, durante 5 a 7 minutos hasta que espese.",
+      "Sirve con la pera en cubos y la miel."
+    ],
+    "updatedAt": "2026-10-25T21:23:25.161Z"
+  },
+  {
+    "id": "receta-revuelto-tofu-champinones",
+    "title": "Revuelto de tofu y champiñones",
+    "description": "Un desayuno vegetal con tofu suave, champiñones y cúrcuma.",
+    "category": "Desayuno",
+    "prepMinutes": 18,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt43_208m66N_sWdCboDd137nBaSvRSCiN-1jMfslvzD3vOMmhY8PoonQJ&s=10",
+    "ingredients": [
+      "200 g de tofu firme",
+      "120 g de champiñones",
+      "1 cucharadita de aceite de oliva",
+      "1/4 cucharadita de cúrcuma",
+      "1 cucharada de cebollita picada",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Desmenuza el tofu con un tenedor y corta los champiñones en láminas.",
+      "Saltea los champiñones con el aceite hasta que estén dorados.",
+      "Añade el tofu, la cúrcuma, la sal y la pimienta; cocina 5 minutos y termina con cebollita."
+    ],
+    "updatedAt": "2026-10-25T21:23:59.247Z"
+  },
+  {
+    "id": "receta-muffins-maiz-queso",
+    "title": "Muffins salados de maíz y queso",
+    "description": "Muffins esponjosos de maíz, ideales para un desayuno diferente.",
+    "category": "Desayuno",
+    "prepMinutes": 30,
+    "imageUrl": "https://www.petitchef.es/imgupl/recipe/mini-muffins-de-maiz--lg-118822p176915.webp",
+    "ingredients": [
+      "1 taza de harina de maíz",
+      "1/2 taza de harina de trigo",
+      "1 huevo",
+      "3/4 taza de leche",
+      "1/2 taza de queso rallado",
+      "1 cucharadita de polvo de hornear"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y prepara un molde para muffins.",
+      "Mezcla las harinas con el polvo de hornear; incorpora el huevo, la leche y el queso.",
+      "Reparte la mezcla en el molde y hornea de 18 a 20 minutos, hasta que estén dorados."
+    ],
+    "updatedAt": "2026-10-25T21:24:41.518Z"
+  },
+  {
+    "id": "receta-ensalada-garbanzos-batata",
+    "title": "Ensalada de garbanzos y batata",
+    "description": "Garbanzos, batata asada y hojas verdes con aderezo de limón.",
+    "category": "Almuerzo",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfrKoFtmHSZDR6HUnpNfCwyBsboBmZgr_zNI1MBsdLF1sXoUaC9IHT4Ps&s=10",
+    "ingredients": [
+      "1 batata grande",
+      "1 taza de garbanzos cocidos",
+      "2 tazas de hojas verdes",
+      "1 cucharada de aceite de oliva",
+      "1 cucharada de jugo de limón",
+      "1/2 cucharadita de comino"
+    ],
+    "steps": [
+      "Corta la batata en cubos, mézclala con la mitad del aceite y el comino, y ásala a 200 °C durante 25 minutos.",
+      "Mezcla los garbanzos con las hojas verdes y añade la batata tibia.",
+      "Aliña con el aceite restante, el jugo de limón y sal."
+    ],
+    "updatedAt": "2026-10-25T21:25:16.155Z"
+  },
+  {
+    "id": "receta-quiche-puerro-queso",
+    "title": "Quiche de puerro y queso",
+    "description": "Tarta salada cremosa con puerros tiernos y queso gratinado.",
+    "category": "Almuerzo",
+    "prepMinutes": 50,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtlgsThzqY6G0BoFucgpuIqF5L0YAMinBCtVy6xRiaSI2WbxQKOVbgOXR&s=10",
+    "ingredients": [
+      "1 tapa de masa para tarta",
+      "2 puerros",
+      "2 huevos",
+      "1/2 taza de leche",
+      "100 g de queso rallado",
+      "1 cucharada de aceite",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C. Corta los puerros en rodajas y saltéalos con el aceite hasta que estén tiernos.",
+      "Bate los huevos con la leche, la mitad del queso, sal y pimienta; mezcla con los puerros.",
+      "Coloca la masa en una tartera, vierte el relleno y hornea de 30 a 35 minutos; agrega el queso restante antes de terminar."
+    ],
+    "updatedAt": "2026-10-26T21:09:24.972Z"
+  },
+  {
+    "id": "receta-sopa-tomate-albahaca",
+    "title": "Sopa de tomate y albahaca",
+    "description": "Sopa suave de tomates maduros con albahaca fresca.",
+    "category": "Almuerzo",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmVnJg8IhNoGoYVP2WR74zzHIKMBDtLgTZ7dp9cRxq4Rg0pI_TBXO-jAo&s=10",
+    "ingredients": [
+      "6 tomates maduros",
+      "1/2 cebolla",
+      "1 diente de ajo",
+      "2 tazas de caldo de verduras",
+      "8 hojas de albahaca",
+      "1 cucharada de aceite de oliva"
+    ],
+    "steps": [
+      "Sofríe la cebolla y el ajo picados con el aceite durante unos minutos.",
+      "Añade los tomates en cubos y el caldo; cocina tapado durante 20 minutos.",
+      "Agrega la albahaca, procesa hasta obtener una crema y sirve caliente."
+    ],
+    "updatedAt": "2026-10-25T21:32:04.975Z"
+  },
+  {
+    "id": "receta-arroz-integral-zucchini-limon",
+    "title": "Arroz integral con zucchini y limón",
+    "description": "Arroz integral con zucchini salteado y un toque cítrico.",
+    "category": "Almuerzo",
+    "prepMinutes": 40,
+    "imageUrl": "https://www.confiesoquecocino.com/wp-content/uploads/2018/06/risotto-zucchini-limon-8-6.jpg",
+    "ingredients": [
+      "1 taza de arroz integral",
+      "1 zucchini",
+      "1/2 cebolla",
+      "2 tazas de caldo de verduras",
+      "1 cucharada de aceite de oliva",
+      "1/2 limón",
+      "Perejil picado al gusto"
+    ],
+    "steps": [
+      "Enjuaga el arroz y cocínalo en el caldo a fuego bajo hasta que esté tierno.",
+      "Corta el zucchini y la cebolla en cubos; saltéalos con el aceite hasta que se doren.",
+      "Mezcla las verduras con el arroz, añade ralladura y jugo de limón, y termina con perejil."
+    ],
+    "updatedAt": "2026-10-25T21:33:01.292Z"
+  },
+  {
+    "id": "receta-zapallitos-rellenos-carne",
+    "title": "Zapallitos rellenos de carne",
+    "description": "Zapallitos horneados con carne sazonada y queso gratinado.",
+    "category": "Cena",
+    "prepMinutes": 45,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqPzIrb--ByC_toaJFKC3Z4KsNn_AmPyKpaNcQ4e6Eo8givHOQlh4NHw&s=10",
+    "ingredients": [
+      "4 zapallitos",
+      "250 g de carne molida",
+      "1/2 cebolla",
+      "1 tomate",
+      "1/3 taza de queso rallado",
+      "1 cucharada de aceite"
+    ],
+    "steps": [
+      "Corta los zapallitos por la mitad y cocínalos en agua hirviendo durante 8 minutos; escúrrelos y retira parte de la pulpa.",
+      "Sofríe la cebolla, agrega la carne y el tomate picado, y cocina hasta que la carne esté bien hecha.",
+      "Rellena los zapallitos, cubre con queso y hornea a 190 °C durante 15 minutos."
+    ],
+    "updatedAt": "2026-10-25T21:34:15.243Z"
+  },
+  {
+    "id": "receta-camarones-ajo-arroz",
+    "title": "Camarones al ajo con arroz",
+    "description": "Camarones salteados con ajo y limón, servidos sobre arroz.",
+    "category": "Cena",
+    "prepMinutes": 25,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgYW7WIUzqtqJI0jlJOMMUZnNFrjbpAx8AOf3FEjyJw&s=10",
+    "ingredients": [
+      "300 g de camarones limpios",
+      "1 taza de arroz cocido",
+      "2 dientes de ajo",
+      "1 cucharada de aceite de oliva",
+      "1/2 limón",
+      "Perejil picado, sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Calienta el aceite en una sartén y cocina el ajo picado durante 30 segundos.",
+      "Añade los camarones, salpimienta y saltea de 3 a 5 minutos, hasta que estén rosados y opacos.",
+      "Agrega jugo de limón y perejil; sirve sobre el arroz caliente."
+    ],
+    "updatedAt": "2026-10-25T21:34:58.117Z"
+  },
+  {
+    "id": "receta-pizza-coliflor-verduras",
+    "title": "Pizza de coliflor y verduras",
+    "description": "Base de coliflor cubierta con tomate, verduras y queso.",
+    "category": "Cena",
+    "prepMinutes": 45,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3H0s1-x3CVA8J-xFjJ2CnsJpXHDvF7wnoJIn0wXPkXiQhAyOSm1V_-0&s=10",
+    "ingredients": [
+      "1 coliflor pequeña",
+      "1 huevo",
+      "1/2 taza de queso rallado",
+      "1/3 taza de salsa de tomate",
+      "1/2 morrón",
+      "1/2 taza de champiñones"
+    ],
+    "steps": [
+      "Precalienta el horno a 220 °C. Procesa la coliflor hasta que quede fina y cocínala 5 minutos; deja enfriar y exprime el exceso de agua.",
+      "Mezcla la coliflor con el huevo y la mitad del queso, forma una base sobre una bandeja y hornea 15 minutos.",
+      "Cubre con salsa, morrón, champiñones y el queso restante; hornea otros 10 minutos."
+    ],
+    "updatedAt": "2026-10-25T21:35:36.749Z"
+  },
+  {
+    "id": "receta-lomo-cerdo-manzana",
+    "title": "Lomo de cerdo con manzana",
+    "description": "Medallones de cerdo jugosos con manzana y cebolla doradas.",
+    "category": "Cena",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzYrVkSR2hq5ilyrBoznXJTirK_p9KjmNEe5LMlPuFBGxUg2_giCRyC0&s=10",
+    "ingredients": [
+      "400 g de lomo de cerdo en medallones",
+      "1 manzana",
+      "1/2 cebolla",
+      "1 cucharada de aceite",
+      "1/2 taza de caldo",
+      "1 cucharadita de mostaza",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Salpimienta los medallones y dóralos con el aceite en una sartén; retíralos.",
+      "Cocina la cebolla y la manzana en láminas hasta que estén tiernas; agrega el caldo y la mostaza.",
+      "Devuelve el cerdo a la sartén y cocina a fuego bajo hasta que esté completamente cocido."
+    ],
+    "updatedAt": "2026-10-25T21:36:35.642Z"
+  },
+  {
+    "id": "receta-sorbete-limon-coco",
+    "title": "Sorbete de limón y coco",
+    "description": "Postre helado refrescante con limón y leche de coco.",
+    "category": "Postres",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVAjYxrEY2xWzsPkOvvcADE11WYcjsvH4dOMv_EoM80eoL3paZskTRZo&s=10",
+    "ingredients": [
+      "1 taza de leche de coco",
+      "1/2 taza de agua",
+      "1/3 taza de azúcar",
+      "1/3 taza de jugo de limón",
+      "Ralladura de 1 limón"
+    ],
+    "steps": [
+      "Calienta el agua con el azúcar hasta que se disuelva y deja enfriar.",
+      "Mezcla el almíbar frío con la leche de coco, el jugo y la ralladura de limón.",
+      "Congela en un recipiente, revolviendo cada 30 minutos durante 3 horas para formar cristales finos."
+    ],
+    "updatedAt": "2026-10-25T21:37:27.197Z"
+  },
+  {
+    "id": "receta-crumble-pera-avena",
+    "title": "Crumble de pera y avena",
+    "description": "Peras horneadas bajo una cubierta crocante de avena y canela.",
+    "category": "Postres",
+    "prepMinutes": 40,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8QUA1sqmUPp79LBlJVYDH7yOq_6989pJR2HYTPBQ8Er06sn0qGNSSbwc&s=10",
+    "ingredients": [
+      "3 peras",
+      "1/2 taza de avena",
+      "1/3 taza de harina",
+      "1/4 taza de azúcar",
+      "40 g de manteca fría",
+      "1/2 cucharadita de canela"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y corta las peras en cubos; colócalas en una fuente.",
+      "Mezcla la avena, la harina, el azúcar y la canela; incorpora la manteca con los dedos hasta formar migas.",
+      "Cubre las peras con la mezcla y hornea de 25 a 30 minutos, hasta que esté dorado."
+    ],
+    "updatedAt": "2026-10-25T21:44:45.275Z"
+  },
+  {
+    "id": "receta-cuadraditos-limon",
+    "title": "Cuadraditos de limón",
+    "description": "Bocaditos dulces con base suave y una cubierta cítrica.",
+    "category": "Postres",
+    "prepMinutes": 45,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rgQ72RrcUUzzZEuFHPAJJ7drXQfaJgbGdf3ER8Z8ZQ7GSOtwTNIPeP6K&s=10",
+    "ingredients": [
+      "1 taza de harina",
+      "80 g de manteca",
+      "1/4 taza de azúcar para la base",
+      "2 huevos",
+      "1/2 taza de azúcar para el relleno",
+      "1/4 taza de jugo de limón",
+      "Ralladura de 1 limón"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C. Mezcla la harina con la manteca y el azúcar de la base; presiona en un molde pequeño.",
+      "Hornea la base durante 15 minutos. Mientras tanto, bate los huevos con el azúcar restante, el limón y la ralladura.",
+      "Vierte el relleno sobre la base y hornea de 18 a 20 minutos; enfría antes de cortar en cuadrados."
+    ],
+    "updatedAt": "2026-10-25T21:49:25.771Z"
+  },
+  {
+    "id": "receta-mousse-frutilla",
+    "title": "Mousse rápida de frutilla",
+    "description": "Mousse ligera de fruta para servir bien fría.",
+    "category": "Postres",
+    "prepMinutes": 20,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiVZ87SgQ3RDcJXzjYnisqZZAm7aZrFvaQH38NLTMPLlPxbVNUHAu1nxc&s=10",
+    "ingredients": [
+      "2 tazas de frutillas",
+      "200 ml de crema de leche fría",
+      "3 cucharadas de azúcar",
+      "1 cucharadita de jugo de limón"
+    ],
+    "steps": [
+      "Lava las frutillas, retira las hojas y procésalas con el azúcar y el jugo de limón.",
+      "Bate la crema fría hasta que forme picos suaves.",
+      "Incorpora el puré de frutilla con movimientos envolventes y refrigera al menos 2 horas."
+    ],
+    "updatedAt": "2026-10-25T21:57:36.840Z"
+  },
+  {
+    "id": "receta-hummus-remolacha",
+    "title": "Hummus de remolacha",
+    "description": "Una crema de garbanzos y remolacha con color intenso y sabor suave.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQXHuUdZ4QV1Swm0vEffcyKv7qHef24q3-JxLCCVAU3fuea8g6j8_EVBL&s=10",
+    "ingredients": [
+      "1 taza de garbanzos cocidos",
+      "1 remolacha cocida",
+      "1 cucharada de tahini",
+      "1 cucharada de jugo de limón",
+      "1 cucharada de aceite de oliva",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Pela la remolacha cocida y córtala en trozos.",
+      "Procesa la remolacha con los garbanzos, el tahini, el limón, el aceite y la sal.",
+      "Agrega una cucharada de agua si hace falta y sirve con pan o verduras."
+    ],
+    "updatedAt": "2026-10-25T21:58:59.884Z"
+  },
+  {
+    "id": "receta-palomitas-canela",
+    "title": "Palomitas dulces de canela",
+    "description": "Palomitas ligeras con un toque de canela y azúcar.",
+    "category": "Snacks",
+    "prepMinutes": 10,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8IahArGhyNfnmj5nFhy4NgZBBV9aS7pKDSn83uJwuThbtVUVwYvq0z4iH&s=10",
+    "ingredients": [
+      "1/3 taza de maíz para palomitas",
+      "1 cucharadita de aceite",
+      "1 cucharada de azúcar",
+      "1/2 cucharadita de canela"
+    ],
+    "steps": [
+      "Calienta el aceite en una olla con tapa y agrega el maíz.",
+      "Mueve la olla ocasionalmente hasta que dejen de explotar las palomitas.",
+      "Mezcla el azúcar con la canela, espolvorea sobre las palomitas calientes y agita para repartir."
+    ],
+    "updatedAt": "2026-10-25T21:59:26.445Z"
+  },
+  {
+    "id": "receta-baba-ganoush",
+    "title": "Baba ganoush de berenjena",
+    "description": "Dip de berenjena asada con limón y tahini, ideal para compartir.",
+    "category": "Snacks",
+    "prepMinutes": 40,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4iCYWaO5Lnh0qPiSxeKQp2O__-aRfI7RDj6qxnqGasVgAKgLwab86txT&s=10",
+    "ingredients": [
+      "1 berenjena grande",
+      "1 cucharada de tahini",
+      "1 cucharada de jugo de limón",
+      "1 diente de ajo pequeño",
+      "1 cucharada de aceite de oliva",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Pincha la berenjena y ásala a 220 °C durante 30 minutos, girándola a mitad de cocción.",
+      "Deja que se enfríe, retira la pulpa y escúrrela unos minutos.",
+      "Pisa la pulpa con tahini, limón, ajo, aceite y sal hasta obtener una crema."
+    ],
+    "updatedAt": "2026-10-25T21:59:49.313Z"
+  },
+  {
+    "id": "receta-bocaditos-polenta-queso",
+    "title": "Bocaditos de polenta y queso",
+    "description": "Cuadraditos dorados de polenta con queso, fáciles de compartir.",
+    "category": "Snacks",
+    "prepMinutes": 35,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd7gQZweNoFgCvcuIOyrsIEU9pKlU97AfAT6VFDR_MzMLn1DEHDh71L4zV&s=10",
+    "ingredients": [
+      "1 taza de polenta instantánea",
+      "3 tazas de agua",
+      "1/2 taza de queso rallado",
+      "1 cucharadita de orégano",
+      "1 cucharada de aceite",
+      "Sal al gusto"
+    ],
+    "steps": [
+      "Hierve el agua con sal, agrega la polenta en forma de lluvia y revuelve hasta que espese.",
+      "Incorpora el queso y el orégano, extiende en una fuente y deja enfriar hasta que esté firme.",
+      "Corta en cuadrados, pincela con aceite y hornea a 220 °C durante 15 minutos, hasta dorar."
+    ],
+    "updatedAt": "2026-10-25T22:00:17.011Z"
+  },
+  {
+    "id": "receta-ensalada-cebada-zucchini",
+    "title": "Ensalada de cebada y zucchini",
+    "description": "Cebada tierna con zucchini dorado, tomate y queso fresco.",
+    "category": "Almuerzo",
+    "prepMinutes": 35,
+    "imageUrl": "https://mondaydreams.com/wp-content/uploads/2022/10/Barley-salad-with-roasted-vegetables-0003-web.jpg",
+    "ingredients": [
+      "1 taza de cebada perlada",
+      "1 zucchini",
+      "1 tomate",
+      "80 g de queso fresco",
+      "1 cucharada de aceite de oliva",
+      "1 cucharada de jugo de limón",
+      "Perejil picado al gusto"
+    ],
+    "steps": [
+      "Enjuaga la cebada y cocínala en agua con sal según el tiempo del paquete; escúrrela y deja entibiar.",
+      "Corta el zucchini en cubos y saltéalo con la mitad del aceite hasta que esté dorado.",
+      "Mezcla con la cebada, el tomate en cubos y el queso desmenuzado; aliña con limón, el aceite restante y perejil."
+    ],
+    "updatedAt": "2026-10-25T21:33:36.490Z"
+  },
+  {
+    "id": "receta-budin-banana-avena",
+    "title": "Budín de banana y avena",
+    "description": "Un budín húmedo y sencillo, ideal para un desayuno casero.",
+    "category": "Desayuno",
+    "prepMinutes": 45,
+    "imageUrl": "https://www.abc.com.py/resizer/v2/BDC3RS246NAB3ITCYX7KDCTWIQ.jpg?auth=dd9ff91c5de4ac9d8984078b8bb64bdadae8d5739632c7a6e7dbca230116e5c0&width=400&smart=true",
+    "ingredients": [
+      "2 bananas maduras",
+      "1 taza de avena",
+      "2 huevos",
+      "1/2 taza de leche",
+      "1 cucharadita de polvo de hornear",
+      "1 cucharadita de canela"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y engrasa un molde pequeño.",
+      "Pisa las bananas y mézclalas con los huevos y la leche.",
+      "Incorpora la avena, el polvo de hornear y la canela.",
+      "Vierte la mezcla en el molde y hornea durante 30 minutos, hasta que al insertar un palillo salga limpio."
+    ],
+    "updatedAt": "2026-10-26T21:01:59.972Z"
+  },
+  {
+    "id": "receta-tostadas-queso-tomate",
+    "title": "Tostadas de queso y tomate",
+    "description": "Pan crujiente con queso derretido y tomate fresco para empezar el día.",
+    "category": "Desayuno",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSx7ayeotFMIdCkyvmRCUUuRqSM_RqidMxAw_d4AUjrT0gU8dgDWsofg_Q&s=10",
+    "ingredients": [
+      "2 rebanadas de pan",
+      "2 fetas de queso",
+      "1 tomate mediano",
+      "1 cucharadita de aceite de oliva",
+      "Orégano al gusto"
+    ],
+    "steps": [
+      "Tuesta el pan ligeramente y colócalo en una bandeja.",
+      "Añade el queso y rodajas finas de tomate sobre cada rebanada.",
+      "Espolvorea orégano y unas gotas de aceite.",
+      "Gratina durante unos minutos, hasta que el queso se derrita."
+    ],
+    "updatedAt": "2026-10-26T21:02:59.830Z"
+  },
+  {
+    "id": "receta-huevos-horno-espinaca",
+    "title": "Huevos al horno con espinaca",
+    "description": "Huevos suaves con espinaca y queso, preparados en porciones individuales.",
+    "category": "Desayuno",
+    "prepMinutes": 25,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEnZI69gIOFDlgA7VWgZO6-fZnt7fjj5c_t9y-Bgr4W8T5VXohXUDYim0&s=10",
+    "ingredients": [
+      "2 huevos",
+      "1 taza de espinaca fresca",
+      "2 cucharadas de queso rallado",
+      "1 cucharada de leche",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 190 °C y distribuye la espinaca en dos moldes pequeños engrasados.",
+      "Casca un huevo en cada molde y añade un poco de leche.",
+      "Condimenta, espolvorea el queso y hornea de 12 a 15 minutos, hasta que las claras estén firmes."
+    ],
+    "updatedAt": "2026-10-26T21:03:47.599Z"
+  },
+  {
+    "id": "receta-arroz-pollo-brocoli-champinones",
+    "title": "Arroz con pollo, brócoli y champiñones",
+    "description": "Arroz sabroso con pollo dorado, brócoli y champiñones.",
+    "category": "Cena",
+    "prepMinutes": 45,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyqN8UkLfZ4IowYmdrwMcsOSVIopcrFa526nzudezw7Q&s=10",
+    "ingredients": [
+      "1 pechuga de pollo en cubos",
+      "1 taza de arroz",
+      "1/2 cebolla picada",
+      "1 taza de brócoli en ramilletes",
+      "150 g de champiñones laminados",
+      "2 tazas de caldo de verduras",
+      "1/2 cucharadita de pimentón dulce",
+      "1 cucharada de aceite",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Calienta el aceite en una olla y dora el pollo por todos sus lados.",
+      "Agrega la cebolla y los champiñones; cocina durante 5 minutos.",
+      "Incorpora el arroz, el brócoli, el caldo y el pimentón; condimenta y mezcla.",
+      "Tapa y cocina a fuego bajo durante 18 a 20 minutos, hasta que el arroz esté tierno y el pollo bien cocido."
+    ],
+    "updatedAt": "2026-10-26T21:04:32.879Z"
+  },
+  {
+    "id": "receta-omelette-champinones-espinaca",
+    "title": "Omelette de champiñones y espinaca",
+    "description": "Un omelette sencillo y sabroso para un desayuno completo.",
+    "category": "Desayuno",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvlQAIU0O8_zhcNQDcLGQtGMBxcgoPYg2NIQ-0_qa0MmeSDiUrsc6ec2U&s=10",
+    "ingredients": [
+      "2 huevos",
+      "1/2 taza de champiñones laminados",
+      "1/2 taza de espinaca fresca",
+      "2 cucharadas de queso rallado",
+      "1 cucharadita de aceite",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Saltea los champiñones con el aceite durante 4 minutos y añade la espinaca hasta que se ablande.",
+      "Bate los huevos con sal y pimienta, viértelos en la sartén y distribuye las verduras.",
+      "Agrega el queso, dobla el omelette y cocina hasta que el huevo esté cuajado."
+    ],
+    "updatedAt": "2026-10-26T21:23:12.127Z"
+  },
+  {
+    "id": "receta-avena-fria-mango",
+    "title": "Avena fría con mango y yogur",
+    "description": "Un desayuno fresco que puedes dejar listo desde la noche anterior.",
+    "category": "Desayuno",
+    "prepMinutes": 10,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IGOv_LWiDJJXaDG23TGQPzHlFQ4qyP73z7mmS2xc1MVbCt7DddoVMsE&s=10",
+    "ingredients": [
+      "1/2 taza de avena",
+      "1/2 taza de leche",
+      "1/3 taza de yogur natural",
+      "1/2 mango maduro",
+      "1 cucharadita de miel"
+    ],
+    "steps": [
+      "Mezcla la avena con la leche, el yogur y la miel en un recipiente con tapa.",
+      "Refrigera durante al menos 6 horas.",
+      "Corta el mango en cubos y sírvelo sobre la avena fría."
+    ],
+    "updatedAt": "2026-10-26T21:13:34.794Z"
+  },
+  {
+    "id": "receta-lentejas-calabaza",
+    "title": "Ensalada tibia de lentejas y calabaza",
+    "description": "Lentejas tiernas con calabaza asada y un toque de limón.",
+    "category": "Almuerzo",
+    "prepMinutes": 40,
+    "imageUrl": "https://global.filippoberio.com/wp-content/uploads/2014/05/warm-salad-butternut-lentils.jpg",
+    "ingredients": [
+      "1 taza de lentejas cocidas",
+      "2 tazas de calabaza en cubos",
+      "1/4 de cebolla morada",
+      "1 cucharada de aceite de oliva",
+      "1 cucharada de jugo de limón",
+      "Perejil picado, sal y pimienta"
+    ],
+    "steps": [
+      "Coloca la calabaza en una bandeja, condimenta con aceite, sal y pimienta y hornea a 200 °C durante 25 minutos.",
+      "Mezcla las lentejas cocidas con la cebolla en láminas finas.",
+      "Añade la calabaza tibia, el jugo de limón y el perejil antes de servir."
+    ],
+    "updatedAt": "2026-10-26T21:27:50.792Z"
+  },
+  {
+    "id": "receta-wrap-pollo-aguacate",
+    "title": "Wrap de pollo y aguacate",
+    "description": "Tortilla rellena de pollo dorado y vegetales frescos.",
+    "category": "Almuerzo",
+    "prepMinutes": 25,
+    "imageUrl": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=900&q=80",
+    "ingredients": [
+      "2 tortillas de trigo",
+      "1 pechuga de pollo pequeña",
+      "1/2 aguacate",
+      "1/2 tomate",
+      "1 taza de lechuga",
+      "1 cucharada de yogur natural",
+      "1 cucharadita de aceite, sal y pimienta"
+    ],
+    "steps": [
+      "Corta el pollo en tiras, condiméntalo y cocínalo con el aceite hasta que esté bien cocido.",
+      "Unta las tortillas con yogur y agrega la lechuga, el tomate, el aguacate y el pollo.",
+      "Enrolla las tortillas y córtalas por la mitad para servir."
+    ],
+    "updatedAt": "2026-10-26T21:10:00.000Z"
+  },
+  {
+    "id": "receta-sopa-calabaza-zanahoria",
+    "title": "Sopa cremosa de calabaza y zanahoria",
+    "description": "Una sopa suave y reconfortante con verduras de temporada.",
+    "category": "Cena",
+    "prepMinutes": 35,
+    "imageUrl": "https://resizer.glanacion.com/resizer/v2/sopa-cremosa-de-calabaza-zanahoria-y-ZYJOKXBZEFBFHBJTWDEEN5T6KA.jpg?auth=a4bab82fef8d8e2cae63decfc4f12785a0b3ddb50b09ddc3adadabf52cc42fd4&width=880&height=586&quality=70&smart=true",
+    "ingredients": [
+      "3 tazas de calabaza en cubos",
+      "2 zanahorias",
+      "1/2 cebolla",
+      "3 tazas de caldo de verduras",
+      "1 cucharada de aceite",
+      "2 cucharadas de crema de leche",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Pica la cebolla y las zanahorias; saltéalas con el aceite durante 5 minutos.",
+      "Agrega la calabaza y el caldo, y cocina tapado durante 20 minutos, hasta que las verduras estén tiernas.",
+      "Procesa hasta obtener una crema lisa, incorpora la crema de leche y ajusta la sal."
+    ],
+    "updatedAt": "2026-10-26T21:24:25.208Z"
+  },
+  {
+    "id": "receta-pescado-limon-hierbas",
+    "title": "Pescado al horno con limón y hierbas",
+    "description": "Filetes jugosos con limón, ajo y hierbas aromáticas.",
+    "category": "Cena",
+    "prepMinutes": 30,
+    "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=900&q=80",
+    "ingredients": [
+      "2 filetes de pescado blanco",
+      "1 limón",
+      "1 diente de ajo picado",
+      "1 cucharada de aceite de oliva",
+      "1 cucharadita de perejil picado",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C y coloca los filetes en una fuente ligeramente aceitada.",
+      "Condimenta con ajo, sal, pimienta, perejil y jugo de medio limón; coloca unas rodajas encima.",
+      "Hornea durante 12 a 15 minutos, hasta que el pescado se desmenuce fácilmente con un tenedor."
+    ],
+    "updatedAt": "2026-10-26T21:10:00.000Z"
+  },
+  {
+    "id": "receta-pimientos-rellenos-quinoa",
+    "title": "Pimientos rellenos de quinoa",
+    "description": "Pimientos al horno rellenos de quinoa, tomate y queso.",
+    "category": "Cena",
+    "prepMinutes": 45,
+    "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80",
+    "ingredients": [
+      "2 pimientos grandes",
+      "1 taza de quinoa cocida",
+      "1 tomate picado",
+      "1/4 de cebolla picada",
+      "1/2 taza de queso rallado",
+      "1 cucharadita de aceite",
+      "Sal y orégano al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 190 °C, corta los pimientos por la mitad y retira las semillas.",
+      "Mezcla la quinoa con el tomate, la cebolla, el aceite, el orégano y la mitad del queso.",
+      "Rellena los pimientos, cúbrelos con el queso restante y hornea durante 25 minutos."
+    ],
+    "updatedAt": "2026-10-26T21:10:00.000Z"
+  },
+  {
+    "id": "receta-risotto-champinones",
+    "title": "Risotto de champiñones",
+    "description": "Arroz cremoso con champiñones y queso parmesano.",
+    "category": "Cena",
+    "prepMinutes": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?auto=format&fit=crop&w=900&q=80",
+    "ingredients": [
+      "1 taza de arroz para risotto",
+      "200 g de champiñones",
+      "1/2 cebolla picada",
+      "4 tazas de caldo caliente",
+      "1/3 taza de queso parmesano",
+      "1 cucharada de mantequilla",
+      "1 cucharada de aceite de oliva"
+    ],
+    "steps": [
+      "Saltea la cebolla y los champiñones con el aceite hasta que estén tiernos.",
+      "Añade el arroz y mezcla durante un minuto. Incorpora el caldo caliente de a poco, revolviendo y esperando que se absorba antes de agregar más.",
+      "Cuando el arroz esté cremoso y tierno, retira del fuego y mezcla con la mantequilla y el parmesano."
+    ],
+    "updatedAt": "2026-10-26T21:10:00.000Z"
+  },
+  {
+    "id": "receta-curry-garbanzos-espinaca",
+    "title": "Curry de garbanzos y espinaca",
+    "description": "Garbanzos especiados en una salsa cremosa de tomate y coco.",
+    "category": "Cena",
+    "prepMinutes": 30,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoOXAWKY-SnmpqSDjgGhhIRYggGw3i-vw_qAgJgmZ64Rqp1GdUASYncL0A&s=10",
+    "ingredients": [
+      "1 taza y media de garbanzos cocidos",
+      "1 taza de espinaca fresca",
+      "1 taza de tomate triturado",
+      "1/2 taza de leche de coco",
+      "1/2 cebolla picada",
+      "1 cucharadita de curry en polvo",
+      "1 cucharada de aceite"
+    ],
+    "steps": [
+      "Saltea la cebolla con el aceite durante 4 minutos y agrega el curry.",
+      "Incorpora el tomate y los garbanzos; cocina a fuego bajo durante 10 minutos.",
+      "Añade la leche de coco y la espinaca. Cocina unos minutos más, hasta que la espinaca se ablande."
+    ],
+    "updatedAt": "2026-10-26T21:26:01.949Z"
+  },
+  {
+    "id": "receta-paletas-yogur-frutilla",
+    "title": "Paletas de yogur y frutilla",
+    "description": "Paletas heladas de fruta y yogur, fáciles de preparar en casa.",
+    "category": "Postres",
+    "prepMinutes": 10,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5zHoFrcUd6KfZCa9UjsWVDKO4q9MVBJqwZWDvoDzLjDH81blaG7leBbF&s=10",
+    "ingredients": [
+      "1 taza de frutillas",
+      "1 taza de yogur natural",
+      "1 cucharada de miel",
+      "1 cucharadita de jugo de limón"
+    ],
+    "steps": [
+      "Procesa las frutillas con la miel y el jugo de limón.",
+      "Mezcla suavemente el puré con el yogur para crear vetas de fruta.",
+      "Vierte en moldes para paletas, coloca los palitos y congela durante al menos 5 horas."
+    ],
+    "updatedAt": "2026-10-26T21:26:42.070Z"
+  },
+  {
+    "id": "receta-flan-naranja",
+    "title": "Flan casero de naranja",
+    "description": "Flan suave con aroma cítrico y caramelo dorado.",
+    "category": "Postres",
+    "prepMinutes": 60,
+    "imageUrl": "https://www.goodnes.com/sites/g/files/jgfbjl321/files/srh_recipes/0935f6fa1088c2abd32410941d358355.jpg",
+    "ingredients": [
+      "3 huevos",
+      "2 tazas de leche",
+      "1/3 taza de azúcar",
+      "Ralladura de 1 naranja",
+      "1/2 taza de azúcar para el caramelo"
+    ],
+    "steps": [
+      "Derrite el azúcar del caramelo en una sartén hasta que tome un color dorado y viértelo en una flanera.",
+      "Bate los huevos con el azúcar, la leche y la ralladura de naranja; vierte la mezcla en la flanera.",
+      "Cocina a baño María en el horno a 170 °C durante 45 minutos. Enfría y refrigera antes de desmoldar."
+    ],
+    "updatedAt": "2026-10-26T21:25:15.630Z"
+  },
+  {
+    "id": "receta-galletas-avena-mani",
+    "title": "Galletas de avena y maní",
+    "description": "Galletas caseras con avena y una textura tierna en el centro.",
+    "category": "Postres",
+    "prepMinutes": 25,
+    "imageUrl": "https://www.abc.com.py/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fabccolor%2FH7T2OWK22JESVJ4CVQ6VXBYZSE.jpg?auth=8120c05c7f5912eb8de49d2fceef308736793c070d6fecabc1b332fdbcb6a119&width=770&smart=true",
+    "ingredients": [
+      "1 taza de avena",
+      "1/2 taza de mantequilla de maní",
+      "1 huevo",
+      "1/4 taza de azúcar",
+      "1/2 cucharadita de polvo de hornear"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y mezcla la mantequilla de maní con el huevo y el azúcar.",
+      "Incorpora la avena y el polvo de hornear hasta formar una masa.",
+      "Forma bolitas, aplástalas en una bandeja y hornea durante 10 a 12 minutos."
+    ],
+    "updatedAt": "2026-10-26T21:35:42.921Z"
+  },
+  {
+    "id": "receta-bolitas-datiles-cacao",
+    "title": "Bolitas de dátiles y cacao",
+    "description": "Un snack dulce sin horno con dátiles, avena y cacao.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkaMbXV81K-Ys8LUHTA67_CaiRAIvTuCwUKqeVRUGl2FrMMMqvHVDRlqE&s=10",
+    "ingredients": [
+      "1 taza de dátiles sin carozo",
+      "1/2 taza de avena",
+      "2 cucharadas de cacao amargo",
+      "2 cucharadas de coco rallado",
+      "1 cucharada de agua si hace falta"
+    ],
+    "steps": [
+      "Procesa los dátiles con la avena y el cacao hasta obtener una mezcla pegajosa.",
+      "Agrega un poco de agua si la mezcla está demasiado seca.",
+      "Forma bolitas y pásalas por el coco rallado; refrigera durante 20 minutos."
+    ],
+    "updatedAt": "2026-10-26T21:20:14.708Z"
+  },
+  {
+    "id": "receta-quesadillas-maiz-queso",
+    "title": "Quesadillas de maíz y queso",
+    "description": "Tortillas doradas con queso fundido y granos de maíz.",
+    "category": "Snacks",
+    "prepMinutes": 15,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlNgcXTvn9KvI14Jej4Q6arYrwnvpRRWDAc44RH6fx6rWRFyby4iW2cA&s=10",
+    "ingredients": [
+      "2 tortillas de trigo",
+      "1/2 taza de granos de maíz cocidos",
+      "1 taza de queso mozzarella rallado",
+      "1 cucharada de cebollita de verdeo picada",
+      "1 cucharadita de aceite"
+    ],
+    "steps": [
+      "Distribuye el queso, el maíz y la cebollita sobre la mitad de cada tortilla.",
+      "Dobla las tortillas y cocínalas en una sartén aceitada a fuego medio.",
+      "Dales vuelta cuando estén doradas y retíralas cuando el queso se haya derretido."
+    ],
+    "updatedAt": "2026-10-26T21:21:07.124Z"
+  },
+  {
+    "id": "receta-tostadas-champinones-ajo",
+    "title": "Tostadas de champiñones al ajo",
+    "description": "Pan crujiente cubierto con champiñones salteados y perejil.",
+    "category": "Snacks",
+    "prepMinutes": 20,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRdQH3-7FlVu4tx6spZd5nPcMZxf7SNo7svuyzNugow7qHR7WiUmPmk_tp&s=10",
+    "ingredients": [
+      "4 rebanadas de pan",
+      "200 g de champiñones laminados",
+      "1 diente de ajo picado",
+      "1 cucharada de aceite de oliva",
+      "1 cucharada de perejil picado",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      "Tuesta las rebanadas de pan hasta que estén crujientes.",
+      "Saltea los champiñones con el aceite durante 5 minutos; agrega el ajo y cocina un minuto más.",
+      "Condimenta, sirve los champiñones sobre el pan y termina con perejil."
+    ],
+    "updatedAt": "2026-10-26T21:22:07.283Z"
+  },
+  {
+    "id": "receta-tarta-espinaca-ricota",
+    "title": "Tarta de espinaca y ricota",
+    "description": "Tarta salada de relleno suave, ideal para un almuerzo sencillo.",
+    "category": "Almuerzo",
+    "prepMinutes": 50,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCD1wpMp6UhqpSS4qYhxP2MXjs5JjdjcoDHHmfOLWkggTmEiRZ-xMXRa4&s=10",
+    "ingredients": [
+      "1 lámina de masa para tarta",
+      "2 tazas de espinaca fresca",
+      "200 g de ricota",
+      "2 huevos",
+      "1/4 de cebolla picada",
+      "1/3 taza de queso rallado",
+      "Sal y nuez moscada al gusto"
+    ],
+    "steps": [
+      "Precalienta el horno a 180 °C y coloca la masa en un molde para tarta.",
+      "Saltea la cebolla y la espinaca hasta que esta última se ablande; deja entibiar.",
+      "Mezcla la ricota con los huevos, el queso, la sal y la nuez moscada, e incorpora la espinaca.",
+      "Vierte el relleno sobre la masa y hornea durante 30 minutos, hasta que esté firme y dorada."
+    ],
+    "updatedAt": "2026-10-26T21:14:49.229Z"
+  }
+]
